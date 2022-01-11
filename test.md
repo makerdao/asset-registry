@@ -1,1 +1,3 @@
-1|n/a|Column 1|Column 2|Column 3
+| | 1 | n/a | Header 1 | Header 2 | Header 3 |
+| ------------- | ------------- | ------------- | ------------- |
+| | 1 | n/a | Header 1 | Header 2 | Header 3 |
