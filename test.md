@@ -1,4 +1,2 @@
--|B|C
--|-|-
-**D**|E|F
-**D**|E|F
+n/a|Header 1|Header 2|Header 3
+1|1|1|1
