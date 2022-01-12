@@ -4,6 +4,7 @@ A. Web2 Domain|TechOps CU|Maker Governance faciliated by GovAlpha CU per MIP60|C
 2) Contact details available on every website or application
 3) The domain is not used for spamming, hosting non-Maker related content, or content that is illegal or breaches intellectual property rights.|1) Every official core unit can request their own subdomain in the form of [CU Acronym].makerdao.com to host their website if they want it.
 2) Additional subdomains can be requested if they are included in the core unit MIP that was ratified by the community.
+
 A.1 Web2 Subdomain|TechOps CU|Maker Governance faciliated by GovAlpha CU per MIP60|Configure DNS A record|-|-
 A.1.1 HTTP(S)|TechOps CU|Maker Governance faciliated by GovAlpha CU per MIP60|Configure DNS A record|-|-
 A.1.2 Email|TechOps CU|Maker Governance faciliated by GovAlpha CU per MIP60|Configure DNS MX or TXT record|-|-
