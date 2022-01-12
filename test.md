@@ -1,5 +1,5 @@
-Name&#124;Technical Delegation Manager&#124;Allocation Administrator&#124;Delegation Method&#124;Usage Conditions&#124;Allocation Policy
-&#45;&#124;&#45;&#124;&#45;&#124;&#45;&#124;&#45;&#124;&#45;
+Name|Technical Delegation Manager|Allocation Administrator|Delegation Method|Usage Conditions|Allocation Policy
+-|-|-|-|-|-
 1. Web2 Domain&#124;TechOps CU&#124;Maker Governance faciliated by GovAlpha CU per MIP60&#124;Configure DNS A record&#124;1&#41; Personal contact details of the assigned content manager
 2&#41; Contact details available on every website or application
 3&#41; The domain is not used for spamming, hosting non&#45;Maker related content, or content that is illegal or breaches intellectual property rights.&#124;1&#41; Every official core unit can request their own subdomain in the form of &#91;CU Acronym&#93;.makerdao.com to host their website if they want it.
