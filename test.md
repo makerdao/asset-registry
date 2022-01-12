@@ -1,4 +1,4 @@
 |||
 -|-|-|-
 z|z|z|z
-[Collection]-|Header 1|Header 2|Header 3
+[Collection]Row 1|A|D|G
