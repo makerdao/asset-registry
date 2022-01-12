@@ -1,4 +1,1 @@
-Row 3|C|F|J
--|-|-|-
-z|z|z|z
-[Collection]
+-|Header 1|Header 2|Header 3
