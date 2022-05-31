@@ -8,3 +8,9 @@ B. Github Organization|TechOps CU|N/A|N/A||
 B.1. Github Team|TechOps CU|Maker Governance facilitated by GovAlpha CU per MIP60|Configure Github Team Permissions||
 Github Repository|(Managed by Content Manager)|N/A|Configure Github Repository Permissions|1) Correct open-source license is applied to all code repositories<br>2) Usage of Github Pages is disabled|
 C. SoMe account|TechOps CU|Maker Governance facilitated by GovAlpha CU per MIP60|Appoint users that are allowed to post content |1) Personal contact details of the assigned content manager & the assigned content manager accepts to adhere to the terms of service of the SoMe platform<br>2) Contact details available on the SoMe account profile<br>3) The SoMe account is not used for spamming, posting non-Maker related content, or content that is illegal or breaches intellectual property rights.|1) Every official core unit can request their own subdomain in the form of [CU Acronym].makerdao.com to host their website if they want it.<br>2) Additional subdomains can be requested if they are included in the core unit MIP that was ratified by the community.
+D. ENS Domain|TechOps CU|Maker Governance facilitated by GovAlpha CU per MIP60|Configure an Ethereum address or<br>an IPFS hash|1) Personal contact details of the assigned content manager<br>2) Contact details available on every website or application<br>3) The domain is not used for spamming, hosting non-Maker related content, or content that is illegal or breaches intellectual property rights.|1) Every official core unit can request their own subdomain in the form of [CU Acronym].makerdao.com to host their website if they want it.<br>2) Additional subdomains can be requested if they are included in the core unit MIP that was ratified by the community.
+D.1. ENS Subdomain|TechOps CU|Maker Governance facilitated by GovAlpha CU per MIP60|Configure an Ethereum address or<br>an IPFS hash||
+-|33|4|||
+||5|||
+||6|||
+||7|8||9
