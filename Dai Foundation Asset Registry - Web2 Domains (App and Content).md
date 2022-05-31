@@ -15,3 +15,4 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 |cdp-cn.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526|redirects to migrate.makerdao.com|Pending - TechOps currently|redirects to migrate.makerdao.com
 |changelog.makerdao.com|Available (TechOps area)|Care taker: Dai Foundation|||Dumitru Zavrotschi|d01#3824||TechOps |
 |chat.makerdao.com|Available (TechOps area)|Care taker: Dai Foundation|||Dumitru Zavrotschi|d01#3824||Pending - TechOps currently|
+|mips.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||? Github pages?/some other DB solution?|
