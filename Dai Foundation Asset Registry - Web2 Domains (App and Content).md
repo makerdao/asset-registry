@@ -22,9 +22,7 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 |liquidations.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328|redirects to unified-auctions.makerdao.com|Pending - TechOps currently|redirects to unified-auctions.makerdao.com
 |awesome.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||Gitbook|
 |api.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|124.124.124.124|TechOp |Hosts basic API queried by CMC - need to find owner in ecosystem
-|brand.makerdao.com|Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||redirects to Maker Foundation Notion account
-
-URL to point to Logo resources elsewhere
+|brand.makerdao.com|Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||redirects to Maker Foundation Notion account. URL to point to Logo resources elsewhere
 |feedback.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org||TechOps|redirects to https://makerdao.com/en/
 |security.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||Gitbook|
 |mips-api.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||?|Backend part, used at mips.makerdao.com
