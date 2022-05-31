@@ -1,5 +1,4 @@
-Domain Name|Subdomain Name|Status|Content managed by|Purpose|Last modification
-(Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
+Domain Name|Subdomain Name|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 -|-|-|-|-|-
 makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 |www.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|124.124.124.124|TechOps |
