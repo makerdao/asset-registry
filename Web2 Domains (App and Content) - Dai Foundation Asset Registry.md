@@ -75,3 +75,10 @@ oasisdexprotocol.com||Available |Care taker: Dai Foundation|||Søren Peter Niels
 
 
 
+
+
+
+
+
+SPDX-FileCopyrightText: © 2022 Dai Foundation <www.daifoundation.org>
+SPDX-License-Identifier: CC-BY-NC-4.0
