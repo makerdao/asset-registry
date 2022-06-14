@@ -32,8 +32,7 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|grants-admin.makerdao.com|Available|Available||2022-01-27| | |||Currently has no Content Manager after the offboarding of the Content  Production CU. The legacy Grants related activities have currently no owner
 -|community-development.makerdao.com|Available|Available||2022-01-27| | |redirects to makerdao.world||Currently has no Content Manager after the offboarding of the Content  Production CU
 -|support.makerdao.com|Available (TechOps area)|Care taker: Dai Foundation||29.04.2022|Dumitru Zavrotschi|d01#3824|||Removed, no longer needed.
--|unified-auctions.makerdao.com|Approved (IIAA Process)|Sidestream Auction Services CU|"Bundle our efforts to unite the cluttered landscape of auction related UIs."|2022-02-09|https://forum.makerdao.com/u/lukass|SASCoreUnit@gmail.com
-@danik||TechOps|https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-02-02/12995
+-|unified-auctions.makerdao.com|Approved (IIAA Process)|Sidestream Auction Services CU|"Bundle our efforts to unite the cluttered landscape of auction related UIs."|2022-02-09|https://forum.makerdao.com/u/lukass|SASCoreUnit@gmail.com @danik||TechOps|https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-02-02/12995
 -|vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Phillip Bain|bainpm#1526|123.123.123.123|Pending - TechOps currently|
 -|v1.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Phillip Bain|bainpm#1526|123.123.123.123|Pending - TechOps currently|
 -|v2.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Phillip Bain|bainpm#1526|123.123.123.123|Pending - TechOps currently|
