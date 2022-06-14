@@ -18,3 +18,13 @@ Telegram|Available|Available (Dai Foundation in emergencies)|||Dai Foundation as
 
 
 
+
+
+---
+
+
+```
+SPDX-FileCopyrightText: © 2022 Dai Foundation <www.daifoundation.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+```
