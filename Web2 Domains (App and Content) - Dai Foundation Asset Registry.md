@@ -20,8 +20,8 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|docs.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||Gitbook|
 -|sai.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526|redirects to migrate.makerdao.com|Pending - TechOps currently|redirects to migrate.makerdao.com
 -|liquidations.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328|redirects to unified-auctions.makerdao.com|Pending - TechOps currently|redirects to unified-auctions.makerdao.com
--|migrate.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526|125.125.125.125|Pending - TechOps currently|
--|nature.makerdao.com|Available|Maker Growth CU||2022-06-02|Cristobal Garcia|Tobal#3368|199.36.158.100|TechOps|
+-|migrate.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526| |Pending - TechOps currently|
+-|nature.makerdao.com|Approved|Maker Growth CU|Connect it to the website hosted in https://maker-poap-test.web.app/ 12 in order to launch the campaign named Nature through the appropriate MakerDAO domain.|2022-06-02|Cristobal Garcia|Tobal#3368|https://maker-poap-test.web.app/12|TechOps|https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-05-24/15348
 -|brand.makerdao.com|Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||redirects to Maker Foundation Notion account. URL to point to Logo resources elsewhere
 -|feedback.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org||TechOps|redirects to https://makerdao.com/en/
 -|security.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||Gitbook|
