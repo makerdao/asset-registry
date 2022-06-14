@@ -14,3 +14,13 @@ D.1. ENS Subdomain|TechOps CU|Maker Governance facilitated by GovAlpha CU per MI
 
 
 
+
+
+---
+
+
+```
+SPDX-FileCopyrightText: © 2022 Dai Foundation <www.daifoundation.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+```
