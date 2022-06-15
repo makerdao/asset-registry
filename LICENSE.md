@@ -97,7 +97,7 @@ __b. To the extent possible, in no event will the Licensor be liable to You on a
 
 c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
-## Section 6 – Term and Termination.
+### Section 6 – Term and Termination.
 
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
