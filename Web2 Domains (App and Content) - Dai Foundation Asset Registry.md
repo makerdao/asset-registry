@@ -37,6 +37,7 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|v1.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Phillip Bain|bainpm#1526|123.123.123.123|Pending - TechOps currently|
 -|v2.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Phillip Bain|bainpm#1526|123.123.123.123|Pending - TechOps currently|
 -|manual.makerdao.com|Approved (IIAA Process)|GovAlpha CU|"Display governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|LongForWisdom|govalpha@protonmail.com|||https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2021-11-15/11646
+|cla.makerdao.com|Pending Approval|Dai Foundation|"Host frontend for the Dai Foundation operated Contributor License Agreement Assistant"|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|https://cla.daifoundation.org
 dai-coin.com||N/A|N/A|||||||
 daifoundation.com||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
 daifoundation.net||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
@@ -66,7 +67,6 @@ oasisdex.com||N/A|N/A|||||www.oasisdex.com alias||
 oasisdex.crypto||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||
 oasisdex.dev||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|redirects to www.oasisdex.com||
 oasisdexprotocol.com||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|redirects to www.oasisdex.com||
-
 
 
 
