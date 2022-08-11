@@ -17,8 +17,8 @@ makerdao.com|-|N/A|N/A|||||www.makerdao.com alias||
 -|sne.makerdao.com|Available / Pre-Approved|StarkNet Engineering CU|||TBD|TBD|135.135.135.135 <br>MX record: mail1.example.com<br>....|TechOps|Shown as example. Maker Foundation hasn't released the use of makerdao.com for email configuration yet. It should happen soon/before end of 2021
 -|din.makerdao.com|Available / Pre-Approved|Data Insights CU|||TBD|TBD|135.135.135.135 <br>MX record: mail1.example.com<br>....|TechOps|Shown as example. Maker Foundation hasn't released the use of makerdao.com for email configuration yet. It should happen soon/before end of 2021
 abuse@makerdao.com||Approved|Dai Foundation CU|Email address to report scammers etc that infringes on the MakerDAO trademarks|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|This email is to establish a single point of contact to report abuses of the Maker Brand and associated trademarks. The email will be monitored by @daif-core-unit with assistance from @techops-core-unit
-
-
+||||||||||
+makerdao.network|-|N/A|N/A|||||||
 
 
 
