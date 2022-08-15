@@ -38,20 +38,20 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|v1.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Deniz|0xdeniz#8083|123.123.123.123|Pending - TechOps currently|
 -|v2.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Deniz|0xdeniz#8083|123.123.123.123|Pending - TechOps currently|
 -|manual.makerdao.com|Approved (IIAA Process)|GovAlpha CU|"Display governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|LongForWisdom|govalpha@protonmail.com|||https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2021-11-15/11646
-|cla.makerdao.com|Approved|Dai Foundation|"Host frontend for the Dai Foundation operated Contributor License Agreement Assistant"|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|https://cla.daifoundation.org
+-|cla.makerdao.com|Approved|Dai Foundation|"Host frontend for the Dai Foundation operated Contributor License Agreement Assistant"|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|https://cla.daifoundation.org
 makerdao.network||N/A|N/A|||||||
-|auctions.makerdao.network|Pre-Approved (Grandfathered)|Sidestream Auction Services CU|||Danik|SASCoreUnit@gmail.com @danik|redirects to unified-auctions.makerdao.com|TechOps|redirects to unified-auctions.makerdao.com
-|Data-api.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to Data API documentation||Tadeo|@tadeo||TechOps|
-|tracker-gov.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to MCD Governance Tracker||Tadeo|@tadeo||TechOps|
-|tracker-vaults.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to MCD Vaults Tracker||Tadeo|@tadeo||TechOps|
-|data.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|Link to Notion for Data Insights Core Unit||Tadeo|@tadeo||TechOps|
-|backeddai.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|||Tadeo|@tadeo||TechOps|
-|dux.makerdao.network|Pre-Approved (Grandfathered)|DUX CU|Link to Notion for DUX Core Unit||Deniz|0xdeniz#8083|||
-|ses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|Link to Notion for SES Core Unit||Juan|Juan-#6328||TechOps|
-|careers.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO page on recruitee.com||Juan|Juan-#6328||TechOps|
-|expenses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|link to Core Units expenses Dashboard - populated by the Budget Tool||Juan|Juan-#6328||TechOps|
-|makertalent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
-|talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
+-|auctions.makerdao.network|Pre-Approved (Grandfathered)|Sidestream Auction Services CU|||Danik|SASCoreUnit@gmail.com @danik|redirects to unified-auctions.makerdao.com|TechOps|redirects to unified-auctions.makerdao.com
+-|Data-api.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to Data API documentation||Tadeo|@tadeo||TechOps|
+-|tracker-gov.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to MCD Governance Tracker||Tadeo|@tadeo||TechOps|
+-|tracker-vaults.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to MCD Vaults Tracker||Tadeo|@tadeo||TechOps|
+-|data.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|Link to Notion for Data Insights Core Unit||Tadeo|@tadeo||TechOps|
+-|backeddai.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|||Tadeo|@tadeo||TechOps|
+-|dux.makerdao.network|Pre-Approved (Grandfathered)|DUX CU|Link to Notion for DUX Core Unit||Deniz|0xdeniz#8083|||
+-|ses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|Link to Notion for SES Core Unit||Juan|Juan-#6328||TechOps|
+-|careers.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO page on recruitee.com||Juan|Juan-#6328||TechOps|
+-|expenses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|link to Core Units expenses Dashboard - populated by the Budget Tool||Juan|Juan-#6328||TechOps|
+-|makertalent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
+-|talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
 ||||||||||
 dai-coin.com||N/A|N/A|||||||
 daifoundation.com||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
