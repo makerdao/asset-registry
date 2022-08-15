@@ -48,7 +48,10 @@ makerdao.network||N/A|N/A|||||||
 |backeddai.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|||Tadeo|@tadeo||TechOps|
 |dux.makerdao.network|Pre-Approved (Grandfathered)|DUX CU|Link to Notion for DUX Core Unit||Deniz|0xdeniz#8083|||
 |ses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|Link to Notion for SES Core Unit||Juan|Juan-#6328||TechOps|
-|careers .makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO page on recruitee.com||Juan|Juan-#6328||TechOps|
+|careers.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO page on recruitee.com||Juan|Juan-#6328||TechOps|
+|expenses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|link to Core Units expenses Dashboard - populated by the Budget Tool||Juan|Juan-#6328||TechOps|
+|makertalent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
+|talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
 ||||||||||
 dai-coin.com||N/A|N/A|||||||
 daifoundation.com||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
@@ -73,10 +76,7 @@ makerdao.in||Available||||||||
 makerdao.info||Available||||||||
 makerdao.nl||Available||||||||
 makerdao.ru||Available||||||||
-
-
-
-
+oasisdex-protocol.com||Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|redirects to www.oasisdex.com||
 
 ---
 
