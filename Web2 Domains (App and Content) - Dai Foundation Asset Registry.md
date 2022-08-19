@@ -3,7 +3,7 @@ Domain Name|Subdomain Name|Status|Content managed by|Purpose|Last modification (
 makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|www.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|124.124.124.124|TechOps |
 -|api.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|124.124.124.124|TechOps|Hosts basic API queried by CMC - need to find owner in ecosystem
--|auctions.makerdao.com|Pre-Approved|SideStream CU/SES CU|||Juan|Juan-#6328|125.125.125.125|Pending - TechOps currently|
+-|auctions.makerdao.com|Pre-Approved|SideStream CU||2022-08-19|Juan|lukas@sidestream.tech|redirects to https://unified-auctions.makerdao.com/|Pending - TechOps currently|redirects to https://unified-auctions.makerdao.com/
 -|awesome.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||Gitbook|
 -|blog.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|124.124.124.124|TechOps |
 -|cdp.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526|redirects to migrate.makerdao.com|Pending - TechOps currently|redirects to migrate.makerdao.com
