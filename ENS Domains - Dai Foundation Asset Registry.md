@@ -15,6 +15,21 @@ daicdp.eth|N/A|N/A|||none as of yet||
 daifoundation.eth|N/A|N/A|||none as of yet||
 daitools.eth|N/A|N/A|||none as of yet||
 dsr.eth|N/A|N/A|||none as of yet||
+makercommunity.eth|N/A|N/A|||none as of yet||
+makerfoundation.eth|N/A|N/A|||none as of yet||
+makertools.eth|N/A|N/A|||none as of yet||
+mkrdai.eth|N/A|N/A|||none as of yet||
+savingsdai.eth|N/A|N/A|||none as of yet||
+
+
+
+
+
+
+
+
+
+
 
 ---
 
