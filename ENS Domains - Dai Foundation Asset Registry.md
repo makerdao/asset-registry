@@ -10,11 +10,11 @@ maker.eth|N/A|N/A|||none as of yet||
 vote.maker.eth|Pre-Approved|DUX|||none as of yet|TechOps for DUX|https://gateway.ipfs.com/<ipfs-hash>
 auctions.maker.eth|Pre-Approved|SideStream CU / SES CU|||none as of yet|TechOps for SideStream CU / SES CU|https://gateway.ipfs.com/<ipfs-hash>
 scaling.maker.eth|Pre-Approved|SES CU|||none as of yet|TechOps for SES CU|https://gateway.ipfs.com/<ipfs-hash>
-
-
-
-
-
+cdp.eth|N/A|N/A|||none as of yet||
+daicdp.eth|N/A|N/A|||none as of yet||
+daifoundation.eth|N/A|N/A|||none as of yet||
+daitools.eth|N/A|N/A|||none as of yet||
+dsr.eth|N/A|N/A|||none as of yet||
 
 ---
 
