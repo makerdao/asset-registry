@@ -39,6 +39,7 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|v2.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Deniz|0xdeniz#8083|123.123.123.123|Pending - TechOps currently|
 -|manual.makerdao.com|Approved (IIAA Process)|GovAlpha CU|"Display governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|LongForWisdom|govalpha@protonmail.com|||https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2021-11-15/11646
 -|cla.makerdao.com|Approved|Dai Foundation|"Host frontend for the Dai Foundation operated Contributor License Agreement Assistant"|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|https://cla.daifoundation.org
+<|chainlog.makerdao.com|Pre-Approved (Grandfathered)|Protocol Engineering CU|MakerDAO Deployment Registry||Derek Flossman|@Derek||TechOps|
 makerdao.network||N/A|N/A|||||||
 -|auctions.makerdao.network|Pre-Approved (Grandfathered)|Sidestream Auction Services CU|||Danik|SASCoreUnit@gmail.com @danik|redirects to unified-auctions.makerdao.com|TechOps|redirects to unified-auctions.makerdao.com
 -|Data-api.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to Data API documentation||Tadeo|@tadeo||TechOps|
@@ -82,7 +83,6 @@ oasisdex.com||N/A|N/A|||||www.oasisdex.com alias||
 oasisdex.crypto||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||
 oasisdex.dev||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|redirects to www.oasisdex.com||
 oasisdexprotocol.com||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|redirects to www.oasisdex.com||
-
 
 
 
