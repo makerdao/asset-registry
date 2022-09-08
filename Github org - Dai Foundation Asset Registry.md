@@ -6,6 +6,7 @@ https://github.com/makerdao/dss-onboard-ilk-helper|Pre-Approved (Grandfathered)|
 https://github.com/makerdao/mip21-toolkit|Pre-Approved (Grandfathered)|CES CU|Equipment for Off-chain Asset Backed Lending in MakerDAO|2022-08-31|monkey.irish|https://forum.makerdao.com/u/monkey.irish|Request via TechOps|GitHub|
 [GitHub team] PECU|Pre-Approved (Grandfathered)|Protocol Engineering CU Facilitator|||Derek Flossman|@makerderek |Request via TechOps|GitHub|
 https://github.com/makerdao/dss-charter|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Brian McMichael||||
+https://github.com/makerdao/dss-end-simulation|Approved|Protocol Engineering CU||2022-09-08|julienmartinlevrai|julienmartinlevrai#4782|Request via TechOps|GitHub|
 https://github.com/makerdao/clipper-mom-keeper|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 https://github.com/makerdao/dss-simulation-scripts|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 https://github.com/makerdao/proxy-manager-clipper|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
@@ -25,7 +26,6 @@ https://github.com/makerdao/governance-manual|Approved (IIAA Process)|GovAlpha C
 [GitHub team] DUX CU|Pre-Approved (Grandfathered)|DUX CU Facilitator|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
 [GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
 https://github.com/makerdao/mcd-security|||||||||
-
 
 
 
