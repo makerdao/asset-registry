@@ -15,6 +15,7 @@ https://github.com/makerdao/univ3-lp-oracle|Pre-Approved (Grandfathered)|Protoco
 https://github.com/makerdao/hardhat-utils|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kris Kaczor||||
 https://github.com/makerdao/curve-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kurt Barry||||
 https://github.com/makerdao/dss-psm|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Sam MacPherson||||
+https://github.com/makerdao/pe-checklists||Protocol Engineering CU|||Gonzalo Balabasquer|gbalabasquer#0993|Request via TechOps|GitHub|
 https://github.com/makerdao/protocolsafety|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Tannr||||
 https://github.com/makerdao/starknet-wormhole-keeper|||||nulven|nickulven@gmail.com|||
 https://github.com/makerdao/starknet-wormhole-oracle|||||nulven|nickulven@gmail.com|||
@@ -26,7 +27,6 @@ https://github.com/makerdao/governance-manual|Approved (IIAA Process)|GovAlpha C
 [GitHub team] DUX CU|Pre-Approved (Grandfathered)|DUX CU Facilitator|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
 [GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
 https://github.com/makerdao/mcd-security|||||||||
-
 
 
 
