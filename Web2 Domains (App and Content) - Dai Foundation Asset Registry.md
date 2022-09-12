@@ -61,7 +61,6 @@ daifoundation.org||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifound
 maker-dao.com||Available||||||||
 maker-vault.crypto||Available||||||||
 maker.crypto||Available||||||||
-makerdai.ca||Available||||||||
 makerdao.at||Available||||||||
 makerdao.be||Available||||||||
 makerdao.biz||Available||||||||
@@ -83,6 +82,38 @@ oasisdex.com||N/A|N/A|||||www.oasisdex.com alias||
 oasisdex.crypto||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||
 oasisdex.dev||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|redirects to www.oasisdex.com||
 oasisdexprotocol.com||Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|redirects to www.oasisdex.com||
+cdpeth.com||Available||||||||
+coins2dai.com||Available||||||||
+collateral2dai.com||Available||||||||
+dai-auctions.com||Available||||||||
+dai-cdp.com||Available||||||||
+dai-savings.com||Available||||||||
+daicdpeth.com||Available||||||||
+daicdpeth.org||Available||||||||
+daieth.org||Available||||||||
+daisave.com||Available||||||||
+daisavings.com||Available||||||||
+maker-auctions.com||Available||||||||
+maker-cdp.com||Available||||||||
+maker-save.com||Available||||||||
+maker-stats.com||Available||||||||
+maker-vote.com||Available||||||||
+makercon.io||Available|Care taker: Dai Foundation|Point to placeholder page for tobe Makercon conference||Søren Peter Nielsen|soren@daifoundation.org||Dai Foundation (Notion)|
+makerda.com||Available||||||||
+makerdai.org||Available||||||||
+makerdao.ca||Available||||||||
+makerdao.co||Available||||||||
+makerdau.com||Available||||||||
+makereth.com||Available||||||||
+makerfoundation.com||Available||||||||
+makredao.com||Available||||||||
+mkr.market||Available||||||||
+mkrdai.com||Available||||||||
+oasisdex.consulting||Available||||||||
+savedai.com||Available||||||||
+stablecon.io||Available|Care taker: Dai Foundation|Point to placeholder page for tobe Stablecon conference||Søren Peter Nielsen|soren@daifoundation.org||Dai Foundation (Notion)|
+
+
 
 
 
