@@ -24,8 +24,7 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|nature.makerdao.com|Approved|Maker Growth CU|Connect it to the website hosted in https://maker-poap-test.web.app/ 12 in order to launch the campaign named Nature through the appropriate MakerDAO domain.|2022-06-02|Cristobal Garcia|Tobal#3368|https://maker-poap-test.web.app/12|TechOps|https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-05-24/15348
 -|brand.makerdao.com|Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||redirects to Maker Foundation Notion account. URL to point to Logo resources elsewhere
 -|feedback.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org||TechOps|redirects to https://makerdao.com/en/
--|security.makerdao.com|Approved|Protocol Engineering CU|Update and management of the security subdomain hosting smart contract audits
-|2022-07-13|Derek Flossman|@Derek|TBD|? (was: Gitbook)|
+-|security.makerdao.com|Approved|Protocol Engineering CU|Update and management of the security subdomain hosting smart contract audits|2022-07-13|Derek Flossman|@Derek|TBD|? (was: Gitbook)|
 -|mips-api.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||?|Backend part, used at mips.makerdao.com
 -|store.makerdao.com|Available|Care taker: Dai Foundation||||||n/a|DNS record exists, website not resolving
 -|developer.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||TechOps|
@@ -39,7 +38,7 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|v2.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Deniz|0xdeniz#8083|123.123.123.123|Pending - TechOps currently|
 -|manual.makerdao.com|Approved (IIAA Process)|GovAlpha CU|"Display governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|LongForWisdom|govalpha@protonmail.com|||https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2021-11-15/11646
 -|cla.makerdao.com|Approved|Dai Foundation|"Host frontend for the Dai Foundation operated Contributor License Agreement Assistant"|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|https://cla.daifoundation.org
-<|chainlog.makerdao.com|Pre-Approved (Grandfathered)|Protocol Engineering CU|MakerDAO Deployment Registry||Derek Flossman|@Derek||TechOps|
+-|chainlog.makerdao.com|Pre-Approved (Grandfathered)|Protocol Engineering CU|MakerDAO Deployment Registry||Derek Flossman|@Derek||TechOps|
 makerdao.network||N/A|N/A|||||||
 -|auctions.makerdao.network|Pre-Approved (Grandfathered)|Sidestream Auction Services CU|||Danik|SASCoreUnit@gmail.com @danik|redirects to unified-auctions.makerdao.com|TechOps|redirects to unified-auctions.makerdao.com
 -|Data-api.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to Data API documentation||Tadeo|@tadeo||TechOps|
