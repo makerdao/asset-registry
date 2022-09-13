@@ -1,7 +1,7 @@
 Domain Name|Subdomain Name|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 -|-|-|-|-|-|-|-|-|-|-
 makerdao.com||N/A|N/A|||||www.makerdao.com alias||
--|www.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|124.124.124.124|TechOps |
+-|www.makerdao.com|Approved|Growth CU|Revamp the makerdao.com website|2022-08-30|Nadia|hello@makergrowth.com|124.124.124.124|TBD|
 -|api.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|124.124.124.124|TechOps|Hosts basic API queried by CMC - need to find owner in ecosystem
 -|auctions.makerdao.com|Pre-Approved|SideStream CU||2022-08-19|Juan|lukas@sidestream.tech|redirects to https://unified-auctions.makerdao.com/|Pending - TechOps currently|redirects to https://unified-auctions.makerdao.com/
 -|awesome.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||Gitbook|
