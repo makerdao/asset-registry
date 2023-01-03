@@ -28,8 +28,8 @@ https://github.com/makerdao/protocol-metadata||GovAlpha Core Unit|||Long For Wis
 [GitHub team] DUX CU|Pre-Approved (Grandfathered)|DUX CU Facilitator|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
 [GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
 https://github.com/makerdao/mcd-security|||||||||
-
-
+[GitHub team] Starknet Engineering|||||||||
+https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 
 
 
