@@ -25,12 +25,13 @@ https://github.com/makerdao/spamman|Pre-Approved (Grandfathered)|Oracles Core Un
 [GitHub team] GovAlpha CU|Pre-Approved (Grandfathered)|GovAlpha Facilitator|||LongForWisdom|LongForWisdom#3896|Request via TechOps||
 https://github.com/makerdao/governance-manual|Approved (IIAA Process)|GovAlpha Core Unit|"Contain governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|Long For Wisdom|govalpha@protonmail.com|||
 https://github.com/makerdao/protocol-metadata||GovAlpha Core Unit|||Long For Wisdom|govalpha@protonmail.com|Request via TechOps|GitHub|
+https://github.com/makerdao/endgame-docs||GovAlpha Core Unit|Intended to host documentation that describes the endgame plan. GovAlpha can go down as content managers. 
+|2022-01-06|Long For Wisdom|@prose11 and @Patrick_J  |  GovAlpha|Request via TechOps|GitHub|
 [GitHub team] DUX CU|Pre-Approved (Grandfathered)|DUX CU Facilitator|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
 [GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
 https://github.com/makerdao/mcd-security|||||||||
 [GitHub team] Starknet Engineering|||||||||
 https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-
 
 
 
