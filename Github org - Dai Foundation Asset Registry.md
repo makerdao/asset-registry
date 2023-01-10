@@ -32,8 +32,8 @@ https://github.com/makerdao/endgame-docs||GovAlpha Core Unit|Intended to host do
 https://github.com/makerdao/mcd-security|||||||||
 [GitHub team] Starknet Engineering|||||||||
 https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-
-
+https://github.com/makerdao/starknet-spells-mainnet||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
+https://github.com/makerdao/starknet-dss-bridge-tests||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 
 
 
