@@ -16,6 +16,7 @@ https://github.com/makerdao/hardhat-utils|Pre-Approved (Grandfathered)|Protocol 
 https://github.com/makerdao/curve-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kurt Barry||||
 https://github.com/makerdao/dss-psm|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Sam MacPherson||||
 https://github.com/makerdao/pe-checklists||Protocol Engineering CU|||Gonzalo Balabasquer|gbalabasquer#0993|Request via TechOps|GitHub|
+https://github.com/makerdao/protego||Protocol Engineering CU|new smart contract repo for managing critical new governance spells|2023-01-11|Brian McMichael|brianmcmichael#4744|Request via TechOps|GitHub|
 https://github.com/makerdao/protocolsafety|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Tannr||||
 https://github.com/makerdao/starknet-wormhole-keeper|||||nulven|nickulven@gmail.com|||
 https://github.com/makerdao/starknet-wormhole-oracle|||||nulven|nickulven@gmail.com|||
@@ -34,7 +35,6 @@ https://github.com/makerdao/mcd-security|||||||||
 https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 https://github.com/makerdao/starknet-spells-mainnet||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 https://github.com/makerdao/starknet-dss-bridge-tests||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-
 
 
 
