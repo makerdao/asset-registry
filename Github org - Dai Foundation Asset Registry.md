@@ -28,6 +28,10 @@ https://github.com/makerdao/governance-manual|Approved (IIAA Process)|GovAlpha C
 https://github.com/makerdao/protocol-metadata||GovAlpha Core Unit|||Long For Wisdom|govalpha@protonmail.com|Request via TechOps|GitHub|
 https://github.com/makerdao/endgame-docs||GovAlpha Core Unit|Intended to host documentation that describes the endgame plan. GovAlpha can go down as content managers. 
 |2022-01-06|Long For Wisdom|@prose11 and @Patrick_J  |  GovAlpha|Request via TechOps|GitHub|
+https://github.com/makerdao/makerdao-status||GovAlpha Core Unit|MakerDAO Collateral and spells status website|2022-01-13|Patrick_J|Patrick_J
+#2627|Request via TechOps|GitHub|
+https://github.com/makerdao/makerdao-mips||GovAlpha Core Unit|Mips Portal|2022-01-13|Patrick_J|Patrick_J
+#2627|Request via TechOps|GitHub|
 [GitHub team] DUX CU|Pre-Approved (Grandfathered)|DUX CU Facilitator|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
 [GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
 https://github.com/makerdao/mcd-security|||||||||
@@ -35,8 +39,6 @@ https://github.com/makerdao/mcd-security|||||||||
 https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 https://github.com/makerdao/starknet-spells-mainnet||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 https://github.com/makerdao/starknet-dss-bridge-tests||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-
-
 
 
 
