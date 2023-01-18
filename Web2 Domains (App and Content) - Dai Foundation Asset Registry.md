@@ -54,6 +54,7 @@ makerdao.network||N/A|N/A|||||||
 -|makertalent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
 -|talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
 ||||||||||
+makerdao.world||N/A|N/A|redirects to https://makerdao.com/en/|||||TechOps|redirects to https://makerdao.com/en/
 dai-coin.com||N/A|N/A|||||||
 daifoundation.com||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
 daifoundation.net||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
@@ -112,7 +113,6 @@ mkrdai.com||Available||||||||
 oasisdex.consulting||Available||||||||
 savedai.com||Available||||||||
 stablecon.io||Available|Care taker: Dai Foundation|Point to placeholder page for tobe Stablecon conference||Søren Peter Nielsen|soren@daifoundation.org||Dai Foundation (Notion)|
-
 
 
 
