@@ -17,12 +17,12 @@ makerdao.com|-|N/A|N/A|||||www.makerdao.com alias||
 -|sne.makerdao.com|Available / Pre-Approved|StarkNet Engineering CU|||TBD|TBD|135.135.135.135 <br>MX record: mail1.example.com<br>....|TechOps|Shown as example. Maker Foundation hasn't released the use of makerdao.com for email configuration yet. It should happen soon/before end of 2021
 -|din.makerdao.com|Available / Pre-Approved|Data Insights CU|||TBD|TBD|135.135.135.135 <br>MX record: mail1.example.com<br>....|TechOps|Shown as example. Maker Foundation hasn't released the use of makerdao.com for email configuration yet. It should happen soon/before end of 2021
 abuse@makerdao.com|-|Approved|Dai Foundation CU|Email address to report scammers etc that infringes on the MakerDAO trademarks|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|This email is to establish a single point of contact to report abuses of the Maker Brand and associated trademarks. The email will be monitored by @daif-core-unit with assistance from @techops-core-unit
+diis-notifications@makerdao.com|-|Approved|Dai Foundation CU|Redirecting emails to RWA group. Dai Foundation is the manager, but TechOps is doing redirects.|2022-02-10|Søren Peter Nielsen|soren@daifoundation.org|-|TechOps|This email is created to receive mails for DIIS email group - https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2023-01-19/19463
 ||||||||||
 makerdao.network|-|N/A|N/A|||||||
 |data.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|CU emails||Tadeo|@tadeo||TechOps|
 |dux.makerdao.network|Pre-Approved (Grandfathered)|DUX CU|CU emails||Deniz|0xdeniz#8083||TechOps|
 |ses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|CU emails||Juan|Juan-#6328||TechOps|
-|sf.makerdao.network|Pre-Approved (Grandfathered)|SF CU|CU emails||Mark Phillips |@Aes||TechOps|
 
 ---
 
