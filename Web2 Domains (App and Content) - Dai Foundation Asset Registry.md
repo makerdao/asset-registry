@@ -13,6 +13,7 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|chief.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526||TechOps|
 -|collateral.makerdao.com|Approved (IIAA Process)|CES CU|Display collateral management documentation for MakerDAO community.|2022-01-10|Robert Jordan|robert@clio.finance<br>@monkey.irish<br>||Gitbook|https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-01-03/12457
 -|dai.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526|redirects to migrate.makerdao.com|Pending - TechOps currently|redirects to migrate.makerdao.com
+-|endgame.makerdao.com|Approved|GovAlpha CU|Endgame documentation|2022-02-10|Long For Wisdom|LongForWisdom#3896||Gitbook|
 -|forum.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||Discourse server managed by TechOps CU|
 -|redeem.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526||TechOps |
 -|mips.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||? Github pages?/some other DB solution?|
@@ -113,7 +114,6 @@ mkrdai.com||Available||||||||
 oasisdex.consulting||Available||||||||
 savedai.com||Available||||||||
 stablecon.io||Available|Care taker: Dai Foundation|Point to placeholder page for tobe Stablecon conference||Søren Peter Nielsen|soren@daifoundation.org||Dai Foundation (Notion)|
-
 
 
 
