@@ -15,12 +15,13 @@ makerdao.com||N/A|N/A|||||www.makerdao.com alias||
 -|dai.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526|redirects to migrate.makerdao.com|Pending - TechOps currently|redirects to migrate.makerdao.com
 -|endgame.makerdao.com|Approved|GovAlpha CU|Endgame documentation|2022-02-10|Long For Wisdom|LongForWisdom#3896||Gitbook|
 -|forum.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||Discourse server managed by TechOps CU|
+-|latam.makerdao.com|Approved|GovAlpha CU|Latam project website|2023-03-31|Sebix|Sebix#2405||GovAlpha CU|
+-|liquidations.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328|redirects to unified-auctions.makerdao.com|Pending - TechOps currently|redirects to unified-auctions.makerdao.com
 -|redeem.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526||TechOps |
 -|mips.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||? Github pages?/some other DB solution?|
 -|oracles.makerdao.com|Pre-Approved|Oracles CU|||Niklas Kunkel|Nik#6759||Pending - TechOps currently|redirects to https://makerdao.com/en/feeds/
 -|docs.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328||Gitbook|
 -|sai.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526|redirects to migrate.makerdao.com|Pending - TechOps currently|redirects to migrate.makerdao.com
--|liquidations.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328|redirects to unified-auctions.makerdao.com|Pending - TechOps currently|redirects to unified-auctions.makerdao.com
 -|migrate.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526| |Pending - TechOps currently|
 -|nature.makerdao.com|Approved|Maker Growth CU|Connect it to the website hosted in https://maker-poap-test.web.app/ 12 in order to launch the campaign named Nature through the appropriate MakerDAO domain.|2022-06-02|Cristobal Garcia|Tobal#3368|https://maker-poap-test.web.app/12|TechOps|https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-05-24/15348
 -|brand.makerdao.com|Available |Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|||redirects to Maker Foundation Notion account. URL to point to Logo resources elsewhere
@@ -114,7 +115,6 @@ mkrdai.com||Available||||||||
 oasisdex.consulting||Available||||||||
 savedai.com||Available||||||||
 stablecon.io||Available|Care taker: Dai Foundation|Point to placeholder page for tobe Stablecon conference||Søren Peter Nielsen|soren@daifoundation.org||Dai Foundation (Notion)|
-
 
 
 
