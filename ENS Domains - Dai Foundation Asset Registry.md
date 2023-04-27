@@ -5,7 +5,7 @@ mkr.eth|Pre-Approved (TechOps area)|Care taker: Dai Foundation|||0x9f8f72aa9304c
 mcd.eth|N/A|N/A|||none as of yet||
 dschief.mcd.eth|Pre-Approved (TechOps area)|Care taker: Dai Foundation|||0x0....|TechOps for Dai Foundation|
 dspause.mcd.eth|Pre-Approved (TechOps area)|Care taker: Dai Foundation|||0x0....|TechOps for Dai Foundation|
-medianizer.eth|Pre-Approved (TechOps area)|Care taker: Dai Foundation|||0x0....|TechOps for Dai Foundation|
+medianizer.eth|Pre-Approved (TechOps area)|Care taker: Dai Foundation||2023-04-27|0x0....|TechOps for Dai Foundation|Extendet till April 2024
 maker.eth|N/A|N/A|||none as of yet||
 vote.maker.eth|Pre-Approved|DUX|||none as of yet|TechOps for DUX|https://gateway.ipfs.com/<ipfs-hash>
 auctions.maker.eth|Pre-Approved|SideStream CU / SES CU|||none as of yet|TechOps for SideStream CU / SES CU|https://gateway.ipfs.com/<ipfs-hash>
