@@ -4,6 +4,10 @@ GitHub Asset|Status|Content managed by|Purpose|Last modification (Blank means "G
 [GitHub team] CES|||||||||
 https://github.com/makerdao/dss-onboard-ilk-helper|Pre-Approved (Grandfathered)|CES CU|Repository to facilitate the onboarding of new ilks into the DSS|2022-08-31|monkey.irish|https://forum.makerdao.com/u/monkey.irish|Request via TechOps|GitHub|
 https://github.com/makerdao/mip21-toolkit|Pre-Approved (Grandfathered)|CES CU|Equipment for Off-chain Asset Backed Lending in MakerDAO|2022-08-31|monkey.irish|https://forum.makerdao.com/u/monkey.irish|Request via TechOps|GitHub|
+[GitHub team] Phoenix Labs|||||||||
+https://github.com/makerdao/dss-direct-deposit|Approved|Phoenix Labs|software for Maker Core|2023-05-09|hexonaut#6741|hexonaut#6741|Request via Maker Community Discord|GitHub|
+https://github.com/makerdao/dss-star|Approved|Phoenix Labs|software for Maker Core|2023-05-15|hexonaut#6741|hexonaut#6741|Request via Maker Community Discord|GitHub|
+||||||||GitHub|
 [GitHub team] PECU|Pre-Approved (Grandfathered)|Protocol Engineering CU Facilitator|||Derek Flossman|@makerderek |Request via TechOps|GitHub|
 https://github.com/makerdao/dss-charter|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Brian McMichael||||
 https://github.com/makerdao/dss-flappers|Approved|||2023-05-02||sunbreak#6427|Request via TechOps|GitHub|
@@ -40,10 +44,6 @@ https://github.com/makerdao/mcd-security|||||||||
 https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 https://github.com/makerdao/starknet-spells-mainnet||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
 https://github.com/makerdao/starknet-dss-bridge-tests||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-
-
-
-
 
 
 
