@@ -112,10 +112,10 @@ makerfoundation.com||Available||||||||
 makredao.com||Available||||||||
 mkr.market||Available||||||||
 mkrdai.com||Available||||||||
+mkrstats.com||Available|Care taker: Dai Foundation||2023-05-22|Søren Peter Nielsen|soren@daifoundation.org|||
 oasisdex.consulting||Available||||||||
 savedai.com||Available||||||||
 stablecon.io||Available|Care taker: Dai Foundation|Point to placeholder page for tobe Stablecon conference||Søren Peter Nielsen|soren@daifoundation.org||Dai Foundation (Notion)|
-
 
 
 
