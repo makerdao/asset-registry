@@ -1,4 +1,4 @@
-https://github.com/makerdao/makerdao-status||GovAlpha Core Unit|MakerDAO Collateral and spells status website|2022-01-13|Patrick_J|Patrick_J
+https://github.com/makerdao/makerdao-mips||GovAlpha Core Unit|Mips Portal|2022-01-13|Patrick_J|Patrick_J
 #2627|Request via TechOps|GitHub|
 
 ---
