@@ -1,4 +1,4 @@
-[GitHub team] GovAlpha CU|Pre-Approved (Grandfathered)|GovAlpha Facilitator|||LongForWisdom|LongForWisdom#3896|Request via TechOps||
+https://github.com/makerdao/governance-manual|Approved (IIAA Process)|GovAlpha Core Unit|"Contain governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|Long For Wisdom|govalpha@protonmail.com|||
 
 ---
 
