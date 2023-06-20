@@ -1,4 +1,4 @@
-[GitHub team] OCU|Pre-Approved (Grandfathered)|Oracles CU Facilitator|||Nik Kunkels|@nikkunkels |Request via TechOps|GitHub|
+https://github.com/makerdao/spamman|Pre-Approved (Grandfathered)|Oracles Core Unit|||Niklas Kunkel|Nik#6759|||
 
 ---
 
