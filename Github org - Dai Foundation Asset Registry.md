@@ -161,9 +161,6 @@ https://github.com/makerdao/price-feed.git||Oracles Core Unit|||||||
 https://github.com/makerdao/median.git||Oracles Core Unit|||||||
 https://github.com/makerdao/setzer.git||Oracles Core Unit|||||||
 https://github.com/makerdao/setzer-mcd.git||Oracles Core Unit|||||||
-|If you need to add a new row or column besides those already existing, please contact TechOps CU first at engineering@techops.services to update the integration that is parsing this Sheet.
-
-Otherwise it might break and public data will not be displayed correctly.||||||||
 
 ---
 
