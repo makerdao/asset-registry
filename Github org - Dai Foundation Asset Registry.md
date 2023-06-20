@@ -1,4 +1,4 @@
-https://github.com/makerdao/mcd-security.git|||The Maker Foundation's highest priority is the security of the Maker protocol. This repository is dedicated to providing transparency to our community with respect to the results of our MCD Audits and our Bug Bounty Program results.||||||
+[GitHub team] OCU|Pre-Approved (Grandfathered)|Oracles CU Facilitator|||Nik Kunkels|@nikkunkels |Request via TechOps|GitHub|
 
 ---
 
