@@ -78,7 +78,7 @@ https://github.com/makerdao/vdb-transformer-utilities.git||TechOps Core Unit||||
 https://github.com/makerdao/vulcan.spec.git||TechOps Core Unit|||||||
 https://github.com/makerdao/vulcanizedb.git||TechOps Core Unit|||||||
 https://github.com/makerdao/d3m-keeper.git||TechOps Core Unit|||||||
-https://github.com/makerdao/dai-protocol-formalization.git||TechOps Core Unit|||||||
+GitHub Asset|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 
 ---
 
