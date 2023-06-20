@@ -1,4 +1,4 @@
-https://github.com/makerdao/hardhat-utils|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kris Kaczor||||
+https://github.com/makerdao/curve-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kurt Barry||||
 
 ---
 
