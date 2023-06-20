@@ -1,4 +1,4 @@
-https://github.com/makerdao/starknet-wormhole-oracle|||||nulven|nickulven@gmail.com|||
+https://github.com/makerdao/mcd-docs-content.git|||Content dump of the files from the MCD Docs GitBooks page||||||
 
 ---
 
