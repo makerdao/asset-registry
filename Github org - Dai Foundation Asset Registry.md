@@ -1,4 +1,4 @@
-https://github.com/makerdao/community.git||GovAlpha Core Unit|||||||
+https://github.com/makerdao/governance-manual.git||GovAlpha Core Unit|||||||
 
 ---
 
