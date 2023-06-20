@@ -1,4 +1,4 @@
-https://github.com/makerdao/governance-portal.git||DUX Core Unit|||||||
+https://github.com/makerdao/migrate-dashboard.git||DUX Core Unit|||||||
 
 ---
 
