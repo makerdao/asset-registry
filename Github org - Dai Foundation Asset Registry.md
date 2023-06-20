@@ -1,4 +1,6 @@
-GitHub Asset|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
+
+
+
 
 ---
 
