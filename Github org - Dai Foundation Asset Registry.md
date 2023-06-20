@@ -1,7 +1,6 @@
 GitHub Asset|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 -|-|-|-|-|-|-|-|-|-
-[GitHub org] makerdao|Unavailable|N/A||||||GitHub|
-[GitHub team] CES|||||||||
+[GitHub org] makerdao|-|-|-|-|-|-|-|-|-
 https://github.com/makerdao/dss-onboard-ilk-helper|Pre-Approved (Grandfathered)|CES CU|Repository to facilitate the onboarding of new ilks into the DSS|2022-08-31|monkey.irish|https://forum.makerdao.com/u/monkey.irish|Request via TechOps|GitHub|
 https://github.com/makerdao/mip21-toolkit|Pre-Approved (Grandfathered)|CES CU|Equipment for Off-chain Asset Backed Lending in MakerDAO|2022-08-31|monkey.irish|https://forum.makerdao.com/u/monkey.irish|Request via TechOps|GitHub|
 [GitHub team] Phoenix Labs|||||||||
@@ -25,6 +24,8 @@ https://github.com/makerdao/protego||Protocol Engineering CU|new smart contract 
 https://github.com/makerdao/protocolsafety|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Tannr||||
 https://github.com/makerdao/starknet-wormhole-keeper|||||nulven|nickulven@gmail.com|||
 https://github.com/makerdao/starknet-wormhole-oracle|||||nulven|nickulven@gmail.com|||
+https://github.com/makerdao/mcd-docs-content.git|||Content dump of the files from the MCD Docs GitBooks page||||||
+https://github.com/makerdao/mcd-security.git|||The Maker Foundation's highest priority is the security of the Maker protocol. This repository is dedicated to providing transparency to our community with respect to the results of our MCD Audits and our Bug Bounty Program results.||||||
 [GitHub team] OCU|Pre-Approved (Grandfathered)|Oracles CU Facilitator|||Nik Kunkels|@nikkunkels |Request via TechOps|GitHub|
 https://github.com/makerdao/spamman|Pre-Approved (Grandfathered)|Oracles Core Unit|||Niklas Kunkel|Nik#6759|||
 |||||||||
@@ -38,19 +39,18 @@ https://github.com/makerdao/makerdao-status||GovAlpha Core Unit|MakerDAO Collate
 #2627|Request via TechOps|GitHub|
 https://github.com/makerdao/makerdao-mips||GovAlpha Core Unit|Mips Portal|2022-01-13|Patrick_J|Patrick_J
 #2627|Request via TechOps|GitHub|
-[GitHub team] DUX CU|Pre-Approved (Grandfathered)|DUX CU Facilitator|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
-[GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
-https://github.com/makerdao/mcd-security|||||||||
-[GitHub team] Starknet Engineering|||||||||
-https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-https://github.com/makerdao/starknet-spells-mainnet||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-https://github.com/makerdao/starknet-dss-bridge-tests||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
-
-
-
-
-
-
+https://github.com/makerdao/MakerDAO-SourceCred-bot||GovAlpha Core Unit|||||||
+https://github.com/makerdao/discourse-docs)||GovAlpha Core Unit|||||||
+https://github.com/makerdao/discourse-docs-card-filter||GovAlpha Core Unit|||||||
+https://github.com/makerdao/governance-dashboard||GovAlpha Core Unit|||||||
+https://github.com/makerdao/community.git||GovAlpha Core Unit|||||||
+https://github.com/makerdao/governance-manual.git||GovAlpha Core Unit|||||||
+https://github.com/makerdao/mips.git||GovAlpha Core Unit|||||||
+https://github.com/makerdao/symbolic-voting.git||DUX Core Unit|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
+https://github.com/makerdao/gov-polling-db.git||DUX Core Unit|||||||
+https://github.com/makerdao/governance-portal-v2.git||DUX Core Unit|||||||
+https://github.com/makerdao/governance-portal.git||DUX Core Unit|||||||
+https://github.com/makerdao/migrate-dashboard.git||DUX Core Unit|||||||
 
 
 
