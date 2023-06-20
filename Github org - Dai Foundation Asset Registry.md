@@ -1,4 +1,4 @@
-https://github.com/makerdao/dss-end-simulation|Approved|Protocol Engineering CU||2022-09-08|julienmartinlevrai|julienmartinlevrai#4782|Request via TechOps|GitHub|
+https://github.com/makerdao/clipper-mom-keeper|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 
 ---
 
