@@ -1,5 +1,5 @@
-https://github.com/makerdao/endgame-docs||GovAlpha Core Unit|Intended to host documentation that describes the endgame plan. GovAlpha can go down as content managers. 
-|2022-01-06|Long For Wisdom|@prose11 and @Patrick_J  |  GovAlpha|Request via TechOps|GitHub|
+https://github.com/makerdao/makerdao-status||GovAlpha Core Unit|MakerDAO Collateral and spells status website|2022-01-13|Patrick_J|Patrick_J
+#2627|Request via TechOps|GitHub|
 
 ---
 
