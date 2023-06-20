@@ -1,4 +1,4 @@
-https://github.com/makerdao/dss-simulation-scripts|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
+https://github.com/makerdao/proxy-manager-clipper|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 
 ---
 
