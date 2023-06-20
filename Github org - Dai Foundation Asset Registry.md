@@ -1,4 +1,4 @@
-[GitHub team] PECU|Pre-Approved (Grandfathered)|Protocol Engineering CU Facilitator|||Derek Flossman|@makerderek |Request via TechOps|GitHub|
+https://github.com/makerdao/dss-charter|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Brian McMichael||||
 
 ---
 
