@@ -1,4 +1,4 @@
-https://github.com/makerdao/pe-checklists||Protocol Engineering CU|||Gonzalo Balabasquer|gbalabasquer#0993|Request via TechOps|GitHub|
+https://github.com/makerdao/protego||Protocol Engineering CU|new smart contract repo for managing critical new governance spells|2023-01-11|Brian McMichael|brianmcmichael#4744|Request via TechOps|GitHub|
 
 ---
 
