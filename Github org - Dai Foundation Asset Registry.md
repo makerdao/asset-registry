@@ -51,34 +51,34 @@ https://github.com/makerdao/gov-polling-db.git||DUX Core Unit|||||||
 https://github.com/makerdao/governance-portal-v2.git||DUX Core Unit|||||||
 https://github.com/makerdao/governance-portal.git||DUX Core Unit|||||||
 https://github.com/makerdao/migrate-dashboard.git||DUX Core Unit|||||||
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
+https://github.com/makerdao/mcd-security|||||||||
+[GitHub team] Starknet Engineering|||||||||
+https://github.com/makerdao/starknet-spells-goerli||SE CU|Starknet spells for Goerli network|2023-01-03|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
+https://github.com/makerdao/starknet-spells-mainnet||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
+https://github.com/makerdao/starknet-dss-bridge-tests||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
+[GitHub] TechOps CU|||||||||
+https://github.com/makerdao/discourse-docs||TechOps Core Unit|||||||
+https://github.com/makerdao/discourse-docs-card-filter||TechOps Core Unit|||||||
+https://github.com/makerdao/pymaker||TechOps Core Unit|||||||
+https://github.com/makerdao/petrometer||TechOps Core Unit|||||||
+https://github.com/makerdao/pg-graphql||TechOps Core Unit|||||||
+https://github.com/makerdao/plunger||TechOps Core Unit|||||||
+https://github.com/makerdao/MakerDAO-SourceCred-bot.git||TechOps Core Unit|||||||
+https://github.com/makerdao/flap-auctions-api.git||TechOps Core Unit|||||||
+https://github.com/makerdao/xdomain.git||TechOps Core Unit|||||||
+https://github.com/makerdao/maker-keeper.git||TechOps Core Unit|||||||
+https://github.com/makerdao/vaults-checker.git||TechOps Core Unit|||||||
+https://github.com/makerdao/dockerized-dapphub-tools.git||TechOps Core Unit|||||||
+https://github.com/makerdao/go-ethereum.git||TechOps Core Unit|||||||
+https://github.com/makerdao/parity-ethereum.git||TechOps Core Unit|||||||
+https://github.com/makerdao/vdb-mcd-transformers.git||TechOps Core Unit|||||||
+https://github.com/makerdao/vdb-oasis-transformers.git||TechOps Core Unit|||||||
+https://github.com/makerdao/vdb-transformer-utilities.git||TechOps Core Unit|||||||
+https://github.com/makerdao/vulcan.spec.git||TechOps Core Unit|||||||
+https://github.com/makerdao/vulcanizedb.git||TechOps Core Unit|||||||
+https://github.com/makerdao/d3m-keeper.git||TechOps Core Unit|||||||
+https://github.com/makerdao/dai-protocol-formalization.git||TechOps Core Unit|||||||
 
 ---
 
