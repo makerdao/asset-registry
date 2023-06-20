@@ -1,4 +1,4 @@
-https://github.com/makerdao/mip21-toolkit|Pre-Approved (Grandfathered)|CES CU|Equipment for Off-chain Asset Backed Lending in MakerDAO|2022-08-31|monkey.irish|https://forum.makerdao.com/u/monkey.irish|Request via TechOps|GitHub|
+GitHub Asset|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 
 ---
 
