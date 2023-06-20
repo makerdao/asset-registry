@@ -1,4 +1,4 @@
-https://github.com/makerdao/curve-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kurt Barry||||
+https://github.com/makerdao/dss-psm|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Sam MacPherson||||
 
 ---
 
