@@ -1,5 +1,4 @@
-https://github.com/makerdao/makerdao-mips||GovAlpha Core Unit|Mips Portal|2022-01-13|Patrick_J|Patrick_J
-#2627|Request via TechOps|GitHub|
+https://github.com/makerdao/MakerDAO-SourceCred-bot||GovAlpha Core Unit|||||||
 
 ---
 
