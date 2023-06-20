@@ -1,4 +1,4 @@
-https://github.com/makerdao/dss-charter|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Brian McMichael||||
+https://github.com/makerdao/dss-flappers|Approved|||2023-05-02||sunbreak#6427|Request via TechOps|GitHub|
 
 ---
 
