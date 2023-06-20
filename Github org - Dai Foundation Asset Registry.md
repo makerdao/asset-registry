@@ -1,4 +1,4 @@
-https://github.com/makerdao/discourse-docs-card-filter||GovAlpha Core Unit|||||||
+https://github.com/makerdao/governance-dashboard||GovAlpha Core Unit|||||||
 
 ---
 
