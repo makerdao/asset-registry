@@ -1,4 +1,4 @@
-https://github.com/makerdao/dss-direct-deposit|Approved|Phoenix Labs|software for Maker Core|2023-05-09|hexonaut#6741|hexonaut#6741|Request via Maker Community Discord|GitHub|
+GitHub Asset|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 
 ---
 
