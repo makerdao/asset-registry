@@ -1,4 +1,5 @@
-https://github.com/makerdao/protocol-metadata||GovAlpha Core Unit|||Long For Wisdom|govalpha@protonmail.com|Request via TechOps|GitHub|
+https://github.com/makerdao/endgame-docs||GovAlpha Core Unit|Intended to host documentation that describes the endgame plan. GovAlpha can go down as content managers. 
+|2022-01-06|Long For Wisdom|@prose11 and @Patrick_J  |  GovAlpha|Request via TechOps|GitHub|
 
 ---
 
