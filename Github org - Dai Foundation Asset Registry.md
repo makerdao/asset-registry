@@ -1,4 +1,4 @@
-https://github.com/makerdao/MakerDAO-SourceCred-bot||GovAlpha Core Unit|||||||
+https://github.com/makerdao/discourse-docs)||GovAlpha Core Unit|||||||
 
 ---
 
