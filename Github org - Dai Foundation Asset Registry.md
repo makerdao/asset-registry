@@ -1,4 +1,4 @@
-https://github.com/makerdao/symbolic-voting.git||DUX Core Unit|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
+https://github.com/makerdao/gov-polling-db.git||DUX Core Unit|||||||
 
 ---
 
