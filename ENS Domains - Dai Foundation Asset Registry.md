@@ -21,10 +21,6 @@ makertools.eth|N/A|N/A|none as of yet
 mkrdai.eth|N/A|N/A|none as of yet
 savingsdai.eth|N/A|N/A|none as of yet
 
-If you need to add a new row or column besides those already existing, please contact TechOps CU first at engineering@techops.services to update the integration that is parsing this Sheet.
-
-Otherwise it might break and public data will not be displayed correctly.
-
 ---
 
 
