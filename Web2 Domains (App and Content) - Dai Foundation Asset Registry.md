@@ -118,9 +118,6 @@ mkrstats.com||Available|Care taker: Dai Foundation||2023-05-22|Søren Peter Niel
 oasisdex.consulting||Available||||||||
 savedai.com||Available||||||||
 stablecon.io||Available|Care taker: Dai Foundation|Point to placeholder page for tobe Stablecon conference||Søren Peter Nielsen|soren@daifoundation.org||Dai Foundation (Notion)|
-||If you need to add a new row or column besides those already existing, please contact TechOps CU first at engineering@techops.services to update the integration that is parsing this Sheet.
-
-Otherwise it might break and public data will not be displayed correctly.||||||||
 
 ---
 
