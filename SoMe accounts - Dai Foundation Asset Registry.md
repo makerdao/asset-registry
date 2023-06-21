@@ -1,25 +1,35 @@
-
+SoMe solution|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 -|-|-|-|-|-|-|-|-|-
+Facebook|Available|Available (Dai Foundation in emergencies)|||Dai Foundation as placeholder|Dumitru's personal profile|Dumitru (is in the process of being moved to a Dai Foundation account)|Facebook|One admin profile, multiple users with different roles.
+Instagram|Available|Available (Dai Foundation in emergencies)|||Dai Foundation as placeholder|techops@daifoundation.org|TechOps team on behalf of Dai Foundation|Instagram|Managed via Facebook Business Manager acct
+LinkedIn|Approved  |Growth CU|share information and start conversations with the Maker ecosystem|2022-08-30|Nadia|hello@makergrowth.com|tbd|LinkedIn|Possible to have multiple admins here - https://www.linkedin.com/company/10146072/admin/manage-admins/
+- Super admin - Content - Curator - Analyst
+Telegram|Available|Available (Dai Foundation in emergencies)|||Dai Foundation as placeholder|Dumitru's phone number|Dumitru (is in the process of being moved to a Dai Foundation account)|Telegram|Add ability for specific users to do the following: - Send messages - Send images - invite users - etc. Done here - https://web.telegram.org/k/ -> Settings -> Permissions
+Twitter (MakerDAO)|Approved (IIAA Process)|Growth CU|share information and start conversations with the Maker ecosystem|2022-02-08|Nadia|hello@makergrowth.com|Contributor:
+@MakerGrowth
+@nad8802
 
+App Authorizations:
+Feedhive.io account controlled by the Growth CU
+Unboxsocial.com account controlled by the Growth CU|Twitter.com|Content Managers to be added with tweetdeck-teams (https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-02-01/12980)
+Twitter (MakerDUX)|Pre-Approved (Grandfathered) / Available|DUX CU|Share information about DUX CU work.|2022-12-16|Deniz|deniz@dux.makerdao.network|Contributor:
+@0xdeniz|Twitter.com|Content Managers to be added with tweetdeck-teams (https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-02-01/12980)
+Vimeo|Available|Available (Dai Foundation in emergencies)|||Dai Foundation as placeholder|techops@daifoundation.org|TechOps team on behalf of Dai Foundation|Vimeo|2 contributors can be added with different roles - https://vimeo.com/settings/account/team_members
+Youtube|Pre-Approved (Grandfathered) / Available|
+Juan - MakerDAO, juan@ses.makerdao.network (SES CU)
+Long For Wisdom, longforwisdomandstuff@gmail.com (GovAlpha CU)
+David Utrobin, david.utro@makerdao.com (COM CU)
+Retro - retro@ses.makerdao.network (SES CU)
+Patrick - (GovAlpha CU)||||(Dumitru Zavrotschi) - Primary owner|
+Juan - MakerDAO, juan@ses.makerdao.network (SES CU)
+Long For Wisdom, longforwisdomandstuff@gmail.com (GovAlpha CU)
+David Utrobin, david.utro@makerdao.com (COM CU)
+Retro - retro@ses.makerdao.network (SES CU)
+Patrick - (GovAlpha CU)|Youtube|Add or remove members with different permissions can be done here - https://www.youtube.com/account
+|||||||||
+If you need to add a new row or column besides those already existing, please contact TechOps CU first at engineering@techops.services to update the integration that is parsing this Sheet.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Otherwise it might break and public data will not be displayed correctly.|||||||||
 
 ---
 
