@@ -1,4 +1,4 @@
-Domain Name|Subdomain Name|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes|Notes
+Domain Name|Subdomain Name|Status|Content managed by|Purpose|Last modification (Blank means "Grandfathered")|Content Manager Contact name|Content Manager Contact ID|Delegation Target|Platform Manager (Tech Content Platform Manager)|Notes
 -|-|-|-|-|-|-|-|-|-|-
 makerdao.com|N/A|N/A|www.makerdao.com alias
 -|www.makerdao.com|Approved|Growth CU|Revamp the makerdao.com website|2022-08-30|Nadia|hello@makergrowth.com|124.124.124.124|TBD
