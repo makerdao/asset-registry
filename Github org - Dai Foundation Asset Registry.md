@@ -35,7 +35,6 @@ https://github.com/makerdao/price-feed.git|Oracles Core Unit|
 https://github.com/makerdao/median.git|Oracles Core Unit|
 https://github.com/makerdao/setzer.git|Oracles Core Unit|
 https://github.com/makerdao/setzer-mcd.git|Oracles Core Unit|
-
 [GitHub team] GovAlpha CU|Pre-Approved (Grandfathered)|GovAlpha Facilitator|LongForWisdom|LongForWisdom#3896|Request via TechOps|
 https://github.com/makerdao/governance-manual|Approved (IIAA Process)|GovAlpha Core Unit|"Contain governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|Long For Wisdom|govalpha@protonmail.com|
 https://github.com/makerdao/intro-docs|GovAlpha Core Unit|a set of introductory documents about Maker. These will complement https://github.com/makerdao/governance-manual and https://github.com/makerdao/endgame-docs|2023-05-22|astronautthis#5076|astronautthis#5076|Requested via TechOps (TECH-1664)|
