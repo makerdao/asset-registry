@@ -8,16 +8,8 @@ Twitter (MakerDAO)|Approved (IIAA Process)|Growth CU|share information and start
 Twitter (MakerDUX)|Pre-Approved (Grandfathered) / Available|DUX CU|Share information about DUX CU work.|2022-12-16|Deniz|deniz@dux.makerdao.network|Contributor: @0xdeniz|Twitter.com|Content Managers to be added with tweetdeck-teams (https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-02-01/12980)
 Vimeo|Available|Available (Dai Foundation in emergencies)|||Dai Foundation as placeholder|techops@daifoundation.org|TechOps team on behalf of Dai Foundation|Vimeo|2 contributors can be added with different roles -https://vimeo.com/settings/account/team_members
 Youtube|Pre-Approved (Grandfathered) / Available|
-Juan - MakerDAO, juan@ses.makerdao.network (SES CU)
-Long For Wisdom, longforwisdomandstuff@gmail.com (GovAlpha CU)
-David Utrobin, david.utro@makerdao.com (COM CU)
-Retro - retro@ses.makerdao.network (SES CU)
-Patrick - (GovAlpha CU)||||(Dumitru Zavrotschi) - Primary owner|
-Juan - MakerDAO, juan@ses.makerdao.network (SES CU)
-Long For Wisdom, longforwisdomandstuff@gmail.com (GovAlpha CU)
-David Utrobin, david.utro@makerdao.com (COM CU)
-Retro - retro@ses.makerdao.network (SES CU)
-Patrick - (GovAlpha CU)|Youtube|Add or remove members with different permissions can be done here - https://www.youtube.com/account
+Juan - MakerDAO, juan@ses.makerdao.network (SES CU); Long For Wisdom, longforwisdomandstuff@gmail.com (GovAlpha CU); David Utrobin, david.utro@makerdao.com (COM CU); Retro - retro@ses.makerdao.network (SES CU); Patrick - (GovAlpha CU)||||(Dumitru Zavrotschi) - Primary owner|
+Juan - MakerDAO, juan@ses.makerdao.network (SES CU); Long For Wisdom, longforwisdomandstuff@gmail.com (GovAlpha CU); David Utrobin, david.utro@makerdao.com (COM CU); Retro - retro@ses.makerdao.network (SES CU); Patrick - (GovAlpha CU)|Youtube|Add or remove members with different permissions can be done here - https://www.youtube.com/account
 
 ---
 
