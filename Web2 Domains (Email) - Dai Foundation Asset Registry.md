@@ -57,9 +57,6 @@ makerdao.network|-|N/A|N/A|||||||
 |sf.makerdao.network|Pre-Approved (Grandfathered)|SF CU|CU emails||Mark Phillips |@Aes||TechOps|
 |talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|incubation||Juan|Juan-#6328||TechOps|
 makerdao.world||Pre-Approved (Grandfathered)|GovComm CU|CU emails||David Utrobin|@Davidutro  |||
-If you need to add a new row or column besides those already existing, please contact TechOps CU first at engineering@techops.services to update the integration that is parsing this Sheet.
-
-Otherwise it might break and public data will not be displayed correctly.||||||||||
 
 ---
 
