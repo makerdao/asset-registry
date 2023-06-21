@@ -22,12 +22,19 @@ https://github.com/makerdao/dss-psm|Pre-Approved (Grandfathered)|Protocol Engine
 https://github.com/makerdao/pe-checklists||Protocol Engineering CU|||Gonzalo Balabasquer|gbalabasquer#0993|Request via TechOps|GitHub|
 https://github.com/makerdao/protego||Protocol Engineering CU|new smart contract repo for managing critical new governance spells|2023-01-11|Brian McMichael|brianmcmichael#4744|Request via TechOps|GitHub|
 https://github.com/makerdao/protocolsafety|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Tannr||||
-https://github.com/makerdao/starknet-wormhole-keeper|||||nulven|nickulven@gmail.com|||
-https://github.com/makerdao/starknet-wormhole-oracle|||||nulven|nickulven@gmail.com|||
-https://github.com/makerdao/mcd-docs-content.git|||Content dump of the files from the MCD Docs GitBooks page||||||
-https://github.com/makerdao/mcd-security.git|||The Maker Foundation's highest priority is the security of the Maker protocol. This repository is dedicated to providing transparency to our community with respect to the results of our MCD Audits and our Bug Bounty Program results.||||||
+https://github.com/makerdao/starknet-wormhole-keeper||Protocol Engineering CU|||nulven|nickulven@gmail.com|||
+https://github.com/makerdao/starknet-wormhole-oracle||Protocol Engineering CU|||nulven|nickulven@gmail.com|||
+https://github.com/makerdao/mcd-docs-content.git||Protocol Engineering CU|Content dump of the files from the MCD Docs GitBooks page||||||
+https://github.com/makerdao/mcd-security.git||Protocol Engineering CU|The Maker Foundation's highest priority is the security of the Maker protocol. This repository is dedicated to providing transparency to our community with respect to the results of our MCD Audits and our Bug Bounty Program results.||||||
 [GitHub team] OCU|Pre-Approved (Grandfathered)|Oracles CU Facilitator|||Nik Kunkels|@nikkunkels |Request via TechOps|GitHub|
 https://github.com/makerdao/spamman|Pre-Approved (Grandfathered)|Oracles Core Unit|||Niklas Kunkel|Nik#6759|||
+https://github.com/makerdao/oracle-deploy.git||Oracles Core Unit|||||||
+https://github.com/makerdao/oracle-suite.git||Oracles Core Unit|||||||
+https://github.com/makerdao/feed-history.git||Oracles Core Unit|||||||
+https://github.com/makerdao/price-feed.git||Oracles Core Unit|||||||
+https://github.com/makerdao/median.git||Oracles Core Unit|||||||
+https://github.com/makerdao/setzer.git||Oracles Core Unit|||||||
+https://github.com/makerdao/setzer-mcd.git||Oracles Core Unit|||||||
 |||||||||
 [GitHub team] GovAlpha CU|Pre-Approved (Grandfathered)|GovAlpha Facilitator|||LongForWisdom|LongForWisdom#3896|Request via TechOps||
 https://github.com/makerdao/governance-manual|Approved (IIAA Process)|GovAlpha Core Unit|"Contain governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|Long For Wisdom|govalpha@protonmail.com|||
@@ -154,13 +161,6 @@ https://github.com/makerdao/bite-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/cage-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/cdp-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/chief-keeper||Protocol Engineering CU|||||||
-https://github.com/makerdao/oracle-deploy.git||Oracles Core Unit|||||||
-https://github.com/makerdao/oracle-suite.git||Oracles Core Unit|||||||
-https://github.com/makerdao/feed-history.git||Oracles Core Unit|||||||
-https://github.com/makerdao/price-feed.git||Oracles Core Unit|||||||
-https://github.com/makerdao/median.git||Oracles Core Unit|||||||
-https://github.com/makerdao/setzer.git||Oracles Core Unit|||||||
-https://github.com/makerdao/setzer-mcd.git||Oracles Core Unit|||||||
 
 ---
 
