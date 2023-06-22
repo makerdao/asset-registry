@@ -49,14 +49,13 @@ MX record: mail1.example.com
 abuse@makerdao.com|-|Approved|Dai Foundation CU|Email address to report scammers etc that infringes on the MakerDAO trademarks|2022-07-07|Søren Peter Nielsen|soren@daifoundation.org||TechOps|This email is to establish a single point of contact to report abuses of the Maker Brand and associated trademarks. The email will be monitored by @daif-core-unit with assistance from @techops-core-unit
 ambassadors@makerdao.com|-|Approved|GovAlpha CU|GovAlpha has access to it|2023-03-29|Sebix#2405|Sebix#2405||TechOps|Email used for ambassadors program. Requested here - https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-latam-makerdao-com-subdomain
 diis-notifications@makerdao.com|-|Approved|Dai Foundation CU|Redirecting emails to RWA group. Dai Foundation is the manager, but TechOps is doing redirects.|2022-02-10|Søren Peter Nielsen|soren@daifoundation.org|-|TechOps|This email is created to receive mails for DIIS email group - https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2023-01-19/19463
-||||||||||
 makerdao.network|-|N/A|N/A|||||||
-|data.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|CU emails||Tadeo|@tadeo||TechOps|
-|dux.makerdao.network|Pre-Approved (Grandfathered)|DUX CU|CU emails||Deniz|0xdeniz#8083||TechOps|
-|ses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|CU emails||Juan|Juan-#6328||TechOps|
-|sf.makerdao.network|Pre-Approved (Grandfathered)|SF CU|CU emails||Mark Phillips |@Aes||TechOps|
-|talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|incubation||Juan|Juan-#6328||TechOps|
-makerdao.world||Pre-Approved (Grandfathered)|GovComm CU|CU emails||David Utrobin|@Davidutro  |||
+-|data.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|CU emails||Tadeo|@tadeo||TechOps|
+-|dux.makerdao.network|Pre-Approved (Grandfathered)|DUX CU|CU emails||Deniz|0xdeniz#8083||TechOps|
+-|ses.makerdao.network|Pre-Approved (Grandfathered)|SES CU|CU emails||Juan|Juan-#6328||TechOps|
+-|sf.makerdao.network|Pre-Approved (Grandfathered)|SF CU|CU emails||Mark Phillips |@Aes||TechOps|
+-|talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|incubation||Juan|Juan-#6328||TechOps|
+makerdao.world|-|Pre-Approved (Grandfathered)|GovComm CU|CU emails||David Utrobin|@Davidutro  |||
 
 ---
 
