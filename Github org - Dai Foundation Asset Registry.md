@@ -162,6 +162,11 @@ https://github.com/makerdao/bite-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/cage-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/cdp-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/chief-keeper||Protocol Engineering CU|||||||
+|||||||||
+[GitHub] DEWIZ|||||||||
+https://github.com/makerdao/endgame-toolkit||Dewiz Ecosystem Actor|A set of components for the SubDAO stack in the context of the MakerDAO Endgame.
+|2023-12-08|amusingaxl|amusingaxl (Discord)
+|Request via TechOps|GitHub|
 
 ---
 
