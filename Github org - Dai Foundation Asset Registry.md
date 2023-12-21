@@ -83,7 +83,7 @@ https://github.com/makerdao/parity-ethereum.git||TechOps Core Unit|||||||
 https://github.com/makerdao/vdb-mcd-transformers.git||TechOps Core Unit|||||||
 https://github.com/makerdao/vdb-oasis-transformers.git||TechOps Core Unit|||||||
 https://github.com/makerdao/vdb-transformer-utilities.git||TechOps Core Unit|||||||
-https://github.com/makerdao/vulcan.spec.git||TechOps Core Unit|||||||
+https://github.com/makerdao/vulcan.spec.git|Archived, no longer used after project was discontinued|TechOps Core Unit|Vulcanize project|2023-12-21||||GitHub|
 https://github.com/makerdao/vulcanizedb.git||TechOps Core Unit|||||||
 https://github.com/makerdao/d3m-keeper.git||TechOps Core Unit|||||||
 https://github.com/makerdao/dai-protocol-formalization.git||TechOps Core Unit|||||||
