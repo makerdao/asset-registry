@@ -32,6 +32,7 @@ makerdao.com|-|N/A|N/A|-|-|-|-|www.makerdao.com alias|-|-
 -|migrate.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526| |Pending - TechOps currently|
 -|mips.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||? Github pages?/some other DB solution?|
 -|mips-api.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||?|Backend part, used at mips.makerdao.com
+|mips-ipfs.makerdao.com|Approved|TechOps Services|To have all MIPs always available on IPFS as a backup to the regular MIPs portal.|2024-01-17|Dumitru Zavrotschi|zdumitru||TechOps Services|
 -|nature.makerdao.com|Approved|Maker Growth CU|Connect it to the website hosted in https://maker-poap-test.web.app/ 12 in order to launch the campaign named Nature through the appropriate MakerDAO domain.|2022-06-02|Cristobal Garcia|Tobal#3368|https://maker-poap-test.web.app/12|TechOps|https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-05-24/15348
 -|oracles.makerdao.com|Pre-Approved|Oracles CU|||Niklas Kunkel|Nik#6759||Pending - TechOps currently|redirects to https://makerdao.com/en/feeds/
 -|redeem.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526||TechOps |
