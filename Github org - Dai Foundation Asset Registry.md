@@ -167,6 +167,7 @@ https://github.com/makerdao/chief-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/endgame-toolkit||Dewiz Ecosystem Actor|A set of components for the SubDAO stack in the context of the MakerDAO Endgame.
 |2023-12-08|amusingaxl|amusingaxl (Discord)
 |Request via TechOps|GitHub|
+https://github.com/makerdao/next-gen-atlas|Approved|Atlas Axis|To host data pertaining to the development of the next generation Atlas.|2024-01-31|Le_Bateleur|lebateleur.|Request via TechOps (TECH-2737)|TechOps|https://forum.makerdao.com/t/intangible-asset-request-2024-01-26/23531
 
 ---
 
