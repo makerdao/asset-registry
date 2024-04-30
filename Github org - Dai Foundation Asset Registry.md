@@ -122,7 +122,7 @@ https://github.com/makerdao/dss-proxy-actions.git||Protocol Engineering CU||||||
 https://github.com/makerdao/esm.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/flipper-mom.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ilk-registry.git||Protocol Engineering CU|||||||
-https://github.com/makerdao/line-spell.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/line-spell.git|Archived|Protocol Engineering CU||2024-04-29|||||No longer used
 https://github.com/makerdao/megapoker.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/mkr-authority.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/osm.git||Protocol Engineering CU|||||||
