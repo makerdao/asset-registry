@@ -26,7 +26,7 @@ makerdao.com|-|N/A|N/A|-|-|-|-|www.makerdao.com alias|-|-
 -|feedback.makerdao.com|Available|Care taker: Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org||TechOps|redirects to https://makerdao.com/en/
 -|forum.makerdao.com|Pre-Approved (Grandfathered)|GovAlpha CU|||Long For Wisdom|LongForWisdom#3896||Discourse server managed by TechOps CU|
 -|grants-admin.makerdao.com|Available|Available||2022-01-27| | |||Currently has no Content Manager after the offboarding of the Content  Production CU. The legacy Grants related activities have currently no owner
--|latam.makerdao.com|Approved|GovAlpha CU|Latam project website|2023-03-31|Sebix|Sebix#2405||GovAlpha CU|
+-|latam.makerdao.com|Revoked|-|Used to be Latam project website|2024-05-02|-|-|Redirects to makerdao.com|TechOps|Redirect set by TechOps
 -|liquidations.makerdao.com|Pre-Approved (Grandfathered)|SES CU|||Juan|Juan-#6328|redirects to unified-auctions.makerdao.com|Pending - TechOps currently|redirects to unified-auctions.makerdao.com
 -|manual.makerdao.com|Approved (IIAA Process)|GovAlpha CU|"Display governance-focused documentation related to the operation of the Maker Protocol."|2021-11-22|LongForWisdom|govalpha@protonmail.com|||https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2021-11-15/11646
 -|migrate.makerdao.com|Pre-Approved (Stewarding)|DUX CU|||Phillip Bain|bainpm#1526| |Pending - TechOps currently|
