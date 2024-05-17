@@ -28,6 +28,9 @@ https://github.com/makerdao/starknet-wormhole-keeper||Protocol Engineering CU|||
 https://github.com/makerdao/starknet-wormhole-oracle||Protocol Engineering CU|||nulven|nickulven@gmail.com|||
 https://github.com/makerdao/mcd-docs-content.git||Protocol Engineering CU|Content dump of the files from the MCD Docs GitBooks page||||||
 https://github.com/makerdao/mcd-security.git||Protocol Engineering CU|The Maker Foundation's highest priority is the security of the Maker protocol. This repository is dedicated to providing transparency to our community with respect to the results of our MCD Audits and our Bug Bounty Program results.||||||
+https://github.com/makerdao/lockstake|Approved|Smart Contracts team|Lockstake engine|2024-05-16|-|-|Request via TechOps|GitHub|-
+https://github.com/makerdao/nst|Approved|Smart Contracts team|NST - new token|2024-05-16|-|-|Request via TechOps|GitHub|-
+https://github.com/makerdao/ngt|Approved|Smart Contracts team|NGT - new gov token|2024-05-16|-|-|Request via TechOps|GitHub|-
 [GitHub team] OCU|Pre-Approved (Grandfathered)|Oracles CU Facilitator|||Nik Kunkels|@nikkunkels |Request via TechOps|GitHub|
 https://github.com/makerdao/spamman|Pre-Approved (Grandfathered)|Oracles Core Unit|||Niklas Kunkel|Nik#6759|||
 https://github.com/makerdao/oracle-deploy.git||Oracles Core Unit|||||||
