@@ -61,6 +61,7 @@ makerdao.network||N/A|N/A|||||||
 -|talent.makerdao.network|Pre-Approved (Grandfathered)|SES CU|links to MakerDAO.network notion||Juan|Juan-#6328||TechOps|
 ||||||||||
 makerdao.world||N/A|N/A|redirects to https://makerdao.com/en/|||||TechOps|redirects to https://makerdao.com/en/
+makerdaobd.com|-|Approved|Dai Foundation|Emails to be used for BD purposes.|2024-07-10|Doo|https://forum.makerdao.com/u/doo_stablelab/summary||TechOps|https://forum.makerdao.com/t/intangible-asset-request-2024-07-04/24592/
 dai-coin.com||N/A|N/A|||||||
 daifoundation.com||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
 daifoundation.net||Approved|Dai Foundation|||Søren Peter Nielsen|soren@daifoundation.org|none as of yet|TechOps |
