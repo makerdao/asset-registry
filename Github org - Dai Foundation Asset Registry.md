@@ -119,7 +119,7 @@ https://github.com/makerdao/ds-chief.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-pause.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-proxy.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-spell.git||Protocol Engineering CU|||||||
-https://github.com/makerdao/ds-token.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/ds-token|Archived, no longer used and maintained|Protocol Engineering CU||2024-06-22|||TechOps|GitHub|
 https://github.com/makerdao/dsr-manager.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-add-ilk-spell.git||Protocol Engineering CU|||||||
