@@ -46,6 +46,9 @@ makerdao.com|-|N/A|N/A|-|-|-|-|www.makerdao.com alias|-|-
 -|vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Deniz|0xdeniz#8083|123.123.123.123|Pending - TechOps currently|
 -|v1.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Deniz|0xdeniz#8083|123.123.123.123|Pending - TechOps currently|
 -|v2.vote.makerdao.com|Pre-Approved (Grandfathered)|DUX CU|||Deniz|0xdeniz#8083|123.123.123.123|Pending - TechOps currently|
+|pollingdb2-mainnet-prod.makerdao.com||Jetstream|API Endpoint used by the Gov Portal||Deniz|0xdeniz#8083||TechOps|
+|pollingdb2-mainnet-staging.makerdao.com||Jetstream|API Endpoint used by the Gov Portal (staging)||Deniz|0xdeniz#8083||TechOps|
+|pollingdb2-tenderly-staging.makerdao.com||Jetstream|API Endpoint used by the Gov Portal (staging)||Deniz|0xdeniz#8083||TechOps|
 makerdao.network||N/A|N/A|||||||
 -|auctions.makerdao.network|Pre-Approved (Grandfathered)|Sidestream Auction Services CU|||Danik|SASCoreUnit@gmail.com @danik|redirects to unified-auctions.makerdao.com|TechOps|redirects to unified-auctions.makerdao.com
 -|Data-api.makerdao.network|Pre-Approved (Grandfathered)|Data Insights CU|link to Data API documentation||Tadeo|@tadeo||TechOps|
