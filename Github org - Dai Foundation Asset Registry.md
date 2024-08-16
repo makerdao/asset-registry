@@ -13,6 +13,12 @@ https://github.com/makerdao/dss-flappers|Approved|||2023-05-02||sunbreak#6427|Re
 https://github.com/makerdao/dss-end-simulation|Approved|Protocol Engineering CU||2022-09-08|julienmartinlevrai|julienmartinlevrai#4782|Request via TechOps|GitHub|
 https://github.com/makerdao/dss-lite-psm|Approved|PullUp Labs|Lightweight Peg Stability Module (PSM) implementation.
 |2023-10-16|https://github.com/sunbreak1211|sunbreak1211 (Discord handle)|Request via TechOps|GitHub|-
+https://github.com/makerdao/nst-wrappers||PullUp Labs||2024-08-14||evo._. 
+( Discord Handle )|Request via Maker Community Discord|GitHub|
+https://github.com/makerdao/op-token-bridge||PullUp Labs||2024-08-14||evo._. 
+( Discord Handle )|Request via Maker Community Discord|GitHub|
+https://github.com/makerdao/op-farms||PullUp Labs||2024-08-14||evo._. 
+( Discord Handle )|Request via Maker Community Discord|GitHub|
 https://github.com/makerdao/clipper-mom-keeper|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 https://github.com/makerdao/dss-simulation-scripts|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 https://github.com/makerdao/JoinFab|||||||||
