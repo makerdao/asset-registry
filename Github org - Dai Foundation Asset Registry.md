@@ -19,24 +19,24 @@ https://github.com/makerdao/op-token-bridge||PullUp Labs||2024-08-14||evo._.
 ( Discord Handle )|Request via Maker Community Discord|GitHub|
 https://github.com/makerdao/op-farms||PullUp Labs||2024-08-14||evo._. 
 ( Discord Handle )|Request via Maker Community Discord|GitHub|
-https://github.com/makerdao/clipper-mom-keeper|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
+https://github.com/makerdao/clipper-mom-keeper|Pre-Approved (Grandfathered)|PullUp Labs|||Gonzalo Balabasquer||||
 https://github.com/makerdao/dss-simulation-scripts|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 https://github.com/makerdao/JoinFab|||||||||
 https://github.com/makerdao/proxy-manager-clipper|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
-https://github.com/makerdao/spells-goerli|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
+https://github.com/makerdao/spells-goerli|Pre-Approved (Grandfathered)|PullUp Labs|||Gonzalo Balabasquer||||
 https://github.com/makerdao/univ3-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 https://github.com/makerdao/hardhat-utils|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kris Kaczor||||
 https://github.com/makerdao/curve-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kurt Barry||||
 https://github.com/makerdao/dss-psm|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Sam MacPherson||||
-https://github.com/makerdao/pe-checklists||Protocol Engineering CU|||Gonzalo Balabasquer|gbalabasquer#0993|Request via TechOps|GitHub|
-https://github.com/makerdao/protego||Protocol Engineering CU|new smart contract repo for managing critical new governance spells|2023-01-11|Brian McMichael|brianmcmichael#4744|Request via TechOps|GitHub|
+https://github.com/makerdao/pe-checklists||PullUp Labs|||https://github.com/sunbreak1211||Request via TechOps|GitHub|
+https://github.com/makerdao/protego||PullUp Labs|new smart contract repo for managing critical new governance spells|2023-01-11|https://github.com/sunbreak1211||Request via TechOps|GitHub|
 https://github.com/makerdao/protocolsafety|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Tannr||||
 https://github.com/makerdao/dss-teleport|||||||||
 https://github.com/makerdao/starknet-wormhole-keeper||Protocol Engineering CU|||nulven|nickulven@gmail.com|||
 https://github.com/makerdao/starknet-wormhole-oracle||Protocol Engineering CU|||nulven|nickulven@gmail.com|||
 https://github.com/makerdao/mcd-docs-content.git||Protocol Engineering CU|Content dump of the files from the MCD Docs GitBooks page||||||
 https://github.com/makerdao/mcd-security.git||Protocol Engineering CU|The Maker Foundation's highest priority is the security of the Maker protocol. This repository is dedicated to providing transparency to our community with respect to the results of our MCD Audits and our Bug Bounty Program results.||||||
-https://github.com/makerdao/lockstake|Approved|Smart Contracts team|Lockstake engine|2024-05-16|-|-|Request via TechOps|GitHub|-
+https://github.com/makerdao/lockstake|Approved|PullUp Labs|Lockstake engine|2024-05-16|https://github.com/oldchili|https://github.com/oldchili|Request via TechOps|GitHub|-
 https://github.com/makerdao/nst|Approved|Smart Contracts team|NST - new token|2024-05-16|-|-|Request via TechOps|GitHub|-
 https://github.com/makerdao/ngt|Approved|Smart Contracts team|NGT - new gov token|2024-05-16|-|-|Request via TechOps|GitHub|-
 [GitHub team] OCU|Pre-Approved (Grandfathered)|Oracles CU Facilitator|||Nik Kunkels|@nikkunkels |Request via TechOps|GitHub|
@@ -58,12 +58,11 @@ https://github.com/makerdao/endgame-docs||GovAlpha Core Unit|Intended to host do
 |2022-01-06|Long For Wisdom|@prose11 and @Patrick_J  |  GovAlpha|Request via TechOps|GitHub|
 https://github.com/makerdao/makerdao-status||GovAlpha Core Unit|MakerDAO Collateral and spells status website|2022-01-13|Patrick_J|Patrick_J
 #2627|Request via TechOps|GitHub|
-https://github.com/makerdao/makerdao-mips||GovAlpha Core Unit|Mips Portal|2022-01-13|Patrick_J|Patrick_J
-#2627|Request via TechOps|GitHub|
+https://github.com/makerdao/makerdao-mips||Governance team|Mips Portal|2022-01-13|JanSky|JanSky - Discord|Request via TechOps|GitHub|
 https://github.com/makerdao/MakerDAO-SourceCred-bot||GovAlpha Core Unit|||||||
 https://github.com/makerdao/discourse-docs)||GovAlpha Core Unit|||||||
 https://github.com/makerdao/discourse-docs-card-filter||GovAlpha Core Unit|||||||
-https://github.com/makerdao/governance-dashboard||GovAlpha Core Unit|||||||
+https://github.com/makerdao/governance-dashboard||Jetstream|||||||
 https://github.com/makerdao/community.git||GovAlpha Core Unit|||||||
 https://github.com/makerdao/community-portal||GovAlpha Core Unit|||||||
 https://github.com/makerdao/developer.makerdao.com||GovAlpha Core Unit|||||||
@@ -124,13 +123,13 @@ https://github.com/makerdao/drizzle.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-chief.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-pause.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-proxy.git||Protocol Engineering CU|||||||
-https://github.com/makerdao/ds-spell.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/ds-spell.git|Archived, no longer used and maintained|Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-token|Archived, no longer used and maintained|Protocol Engineering CU||2024-06-22|||TechOps|GitHub|
 https://github.com/makerdao/dsr-manager.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-add-ilk-spell.git||Protocol Engineering CU|||||||
-https://github.com/makerdao/dss-allocator|||||||||
-https://github.com/makerdao/dss-auth-viz.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/dss-allocator||PullUp Labs||2024-05-21|https://github.com/oldchili|https://github.com/oldchili|||
+https://github.com/makerdao/dss-auth-viz.git|Archived|Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-auto-line.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-bridge|||||||||
 https://github.com/makerdao/dss-cdp-manager.git||Protocol Engineering CU|||||||
