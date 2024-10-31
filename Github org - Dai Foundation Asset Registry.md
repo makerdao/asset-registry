@@ -97,7 +97,7 @@ https://github.com/makerdao/MakerDAO-SourceCred-bot.git||TechOps Services Ecosys
 https://github.com/makerdao/flap-auctions-api.git||TechOps Services Ecosystem Actor|||||||
 https://github.com/makerdao/xdomain.git||TechOps Services Ecosystem Actor|||||||
 https://github.com/makerdao/maker-keeper.git||TechOps Services Ecosystem Actor|||||||
-https://github.com/makerdao/mcd4j||TechOps Services Ecosystem Actor|||||||
+https://github.com/makerdao/mcd4j|Archived, no longer used and maintained|TechOps Services Ecosystem Actor||2024-10-30|||||
 https://github.com/makerdao/vaults-checker.git||TechOps Services Ecosystem Actor|||||||
 https://github.com/makerdao/dockerized-dapphub-tools.git||TechOps Services Ecosystem Actor|||||||
 https://github.com/makerdao/go-ethereum.git||TechOps Services Ecosystem Actor|||||||
@@ -193,6 +193,7 @@ https://github.com/makerdao/bite-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/cage-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/cdp-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/chainlog-ui||Protocol Engineering CU|||||||
+https://github.com/makerdao/chainlog-scripts|Archived, no longer used and maintained|Protocol Engineering CU||2024-10-30|||||
 https://github.com/makerdao/chief-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/redeem||Protocol Engineering CU|||||||
 https://github.com/makerdao/token-tests|||||||||
