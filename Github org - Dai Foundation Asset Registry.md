@@ -29,6 +29,7 @@ https://github.com/makerdao/univ3-lp-oracle|Pre-Approved (Grandfathered)|Protoco
 https://github.com/makerdao/hardhat-utils|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kris Kaczor||||
 https://github.com/makerdao/curve-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kurt Barry||||
 https://github.com/makerdao/dss-psm|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Sam MacPherson||||
+https://github.com/makerdao/dss-slap|Archived, no longer used|||2024-11-05|||||
 https://github.com/makerdao/pe-checklists||PullUp Labs|||https://github.com/sunbreak1211||Request via TechOps|GitHub|
 https://github.com/makerdao/protego||PullUp Labs|new smart contract repo for managing critical new governance spells|2023-01-11|https://github.com/sunbreak1211||Request via TechOps|GitHub|
 https://github.com/makerdao/protocolsafety|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Tannr||||
@@ -122,8 +123,10 @@ https://github.com/makerdao/clipper-mom-keeper.git||Protocol Engineering CU|||||
 https://github.com/makerdao/curve-lp-oracle.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/drizzle.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-chief.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/ds-chief-private|Archived, no longer used and maintained|Protocol Engineering CU||2024-11-05|||||
 https://github.com/makerdao/ds-pause.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-proxy.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/ds-simple-chef|Archived, no longer used and maintained|Protocol Engineering CU||2024-11-05|||||
 https://github.com/makerdao/ds-spell.git|Archived, no longer used and maintained|Protocol Engineering CU|||||||
 https://github.com/makerdao/ds-token|Archived, no longer used and maintained|Protocol Engineering CU||2024-06-22|||TechOps|GitHub|
 https://github.com/makerdao/dsr-manager.git||Protocol Engineering CU|||||||
