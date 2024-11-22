@@ -112,6 +112,7 @@ https://github.com/makerdao/vulcanizedb.git||TechOps Ecosystem Actor|||||||
 https://github.com/makerdao/d3m-keeper.git||TechOps Ecosystem Actor|||||||
 https://github.com/makerdao/dai-protocol-formalization.git||TechOps Ecosystem Actor|||||||
 https://github.com/makerdao/vote-breakdown-bot||TechOps Ecosystem Actor|||||||
+https://github.com/makerdao/sysadmin-tools|Archived, no longer used|TechOps Ecosystem Actor||2024-11-22|||||
 https://github.com/makerdao/starknet-dss.git||Starknet Engineering CU|||||||
 https://github.com/makerdao/starknet-dai-bridge.git||Starknet Engineering CU|||||||
 https://github.com/makerdao/arbitrum-dai-bridge.git||Protocol Engineering CU|||||||
