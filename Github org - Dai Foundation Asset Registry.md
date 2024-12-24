@@ -13,6 +13,7 @@ https://github.com/makerdao/dss-flappers|Approved|||2023-05-02||sunbreak#6427|Re
 https://github.com/makerdao/dss-end-simulation|Approved|Protocol Engineering CU||2022-09-08|julienmartinlevrai|julienmartinlevrai#4782|Request via TechOps|GitHub|
 https://github.com/makerdao/dss-lite-psm|Approved|PullUp Labs|Lightweight Peg Stability Module (PSM) implementation.
 |2023-10-16|https://github.com/sunbreak1211|sunbreak1211 (Discord handle)|Request via TechOps|GitHub|-
+|||||||||
 https://github.com/makerdao/governance-rate-oracle||||2024-09-09||||GitHub|Not used and archived
 https://github.com/makerdao/nst-wrappers||PullUp Labs||2024-08-14||evo._. 
 ( Discord Handle )|Request via Maker Community Discord|GitHub|
@@ -28,6 +29,7 @@ https://github.com/makerdao/spells-goerli|Pre-Approved (Grandfathered)|PullUp La
 https://github.com/makerdao/univ3-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Gonzalo Balabasquer||||
 https://github.com/makerdao/hardhat-utils|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kris Kaczor||||
 https://github.com/makerdao/curve-lp-oracle|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Kurt Barry||||
+https://github.com/makerdao/ds-pause-private|Archived, no longer used|-|-|2024-12-24|-|-|-|GitHub|
 https://github.com/makerdao/dss-psm|Pre-Approved (Grandfathered)|Protocol Engineering CU|||Sam MacPherson||||
 https://github.com/makerdao/dss-slap|Archived, no longer used|||2024-11-05|||||
 https://github.com/makerdao/pe-checklists||PullUp Labs|||https://github.com/sunbreak1211||Request via TechOps|GitHub|
@@ -207,6 +209,8 @@ https://github.com/makerdao/endgame-toolkit||Dewiz Ecosystem Actor|A set of comp
 |Request via TechOps|GitHub|
 https://github.com/makerdao/next-gen-atlas|Approved|Atlas Axis|To host data pertaining to the development of the next generation Atlas.|2024-01-31|Le_Bateleur|lebateleur.|Request via TechOps (TECH-2737)|TechOps|https://forum.makerdao.com/t/intangible-asset-request-2024-01-26/23531
 https://github.com/makerdao/rwa-toolkit|||||||||
+https://github.com/makerdao/officehours|Archived, no longer used and maintained|-|-|2024-12-24|-|-|-|-|-
+https://github.com/makerdao/test-migrate-join|Archived, no longer used and maintained|-|-|2024-12-24|-|-|-|-|-
 
 ---
 
