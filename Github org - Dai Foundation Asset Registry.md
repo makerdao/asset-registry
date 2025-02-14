@@ -52,6 +52,8 @@ https://github.com/makerdao/price-feed.git||Oracles Core Unit|||||||
 https://github.com/makerdao/median.git||Oracles Core Unit|||||||
 https://github.com/makerdao/setzer.git|Archived|Oracles Core Unit|||||||Archived in April 2024
 https://github.com/makerdao/setzer-mcd.git||Oracles Core Unit|||||||
+https://github.com/makerdao/oracle-docker|Archived||||||||
+https://github.com/makerdao/oracle-infra|Archived||||||||
 [GitHub team] GovAlpha CU|Pre-Approved (Grandfathered)|GovAlpha Facilitator|||LongForWisdom|LongForWisdom#3896|Request via TechOps||
 https://github.com/makerdao/awesome-makerdao
 |||||||||
@@ -73,7 +75,7 @@ https://github.com/makerdao/developer.makerdao.com||GovAlpha Core Unit|||||||
 https://github.com/makerdao/developerguides|||||||||
 https://github.com/makerdao/governance-manual.git||GovAlpha Core Unit|||||||
 https://github.com/makerdao/mips.git||GovAlpha Core Unit|||||||
-https://github.com/makerdao/symbolic-voting.git||DUX Core Unit|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
+https://github.com/makerdao/symbolic-voting.git|Archived|DUX Core Unit|||Phillip Bain|bainpm#1526 (Discord) |Request via TechOps|GitHub|DUX has their own Github account
 https://github.com/makerdao/gov-polling-db.git||DUX Core Unit|||||||
 https://github.com/makerdao/governance-portal-v2.git||DUX Core Unit|||||||
 https://github.com/makerdao/governance-portal.git||DUX Core Unit|||||||
@@ -108,13 +110,17 @@ https://github.com/makerdao/parity-ethereum.git||TechOps Services Ecosystem Acto
 https://github.com/makerdao/pygasprice-client||TechOps Services Ecosystem Actor|||||||
 https://github.com/makerdao/vdb-mcd-transformers.git||TechOps Services Ecosystem Actor|||||||
 https://github.com/makerdao/vdb-oasis-transformers.git||TechOps Services Ecosystem Actor|||||||
-https://github.com/makerdao/vdb-transformer-utilities.git||TechOps Services Ecosystem Actor|||||||
+https://github.com/makerdao/vdb-transformer-utilities.git|Archived|TechOps Services Ecosystem Actor|||||||
 https://github.com/makerdao/vulcan.spec.git|Archived, no longer used after project was discontinued|TechOps Services Ecosystem Actor|Vulcanize project|2023-12-21||||GitHub|
 https://github.com/makerdao/vulcanizedb.git||TechOps Ecosystem Actor|||||||
 https://github.com/makerdao/d3m-keeper.git||TechOps Ecosystem Actor|||||||
-https://github.com/makerdao/dai-protocol-formalization.git||TechOps Ecosystem Actor|||||||
+https://github.com/makerdao/dai-protocol-formalization.git|Archived|TechOps Ecosystem Actor|||||||
 https://github.com/makerdao/vote-breakdown-bot||TechOps Ecosystem Actor|||||||
 https://github.com/makerdao/sysadmin-tools|Archived, no longer used|TechOps Ecosystem Actor||2024-11-22|||||
+https://github.com/makerdao/hackerone-bbp-policy|Archived||||||||
+https://github.com/makerdao/terraform-aws-spock-monitor|Archived||||||||
+https://github.com/makerdao/terraform-aws-spock|Archived||||||||
+https://github.com/makerdao/terraform-aws-waf-webaclv2|Archived||||||||
 https://github.com/makerdao/starknet-dss.git||Starknet Engineering CU|||||||
 https://github.com/makerdao/starknet-dai-bridge.git||Starknet Engineering CU|||||||
 https://github.com/makerdao/arbitrum-dai-bridge.git||Protocol Engineering CU|||||||
@@ -153,6 +159,10 @@ https://github.com/makerdao/dss-gov.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-interfaces.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-kiln|||||||||
 https://github.com/makerdao/dss-proxy-actions.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/dss-liq-2.0-private|Archived||||||||
+https://github.com/makerdao/dss-private|Archived||||||||
+https://github.com/makerdao/dss-pause|Archived||||||||
+https://github.com/makerdao/dss-psm-liquidator|Archived||||||||
 https://github.com/makerdao/esm.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/flipper-mom.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/line-mom|||||||||
@@ -203,6 +213,7 @@ https://github.com/makerdao/chainlog-scripts|Archived, no longer used and mainta
 https://github.com/makerdao/chief-keeper||Protocol Engineering CU|||||||
 https://github.com/makerdao/redeem||Protocol Engineering CU|||||||
 https://github.com/makerdao/token-tests|||||||||
+https://github.com/makerdao/ilk-factory|Archived||||||||
 [GitHub] DEWIZ|||||||||
 https://github.com/makerdao/endgame-toolkit||Dewiz Ecosystem Actor|A set of components for the SubDAO stack in the context of the MakerDAO Endgame.
 |2023-12-08|amusingaxl|amusingaxl (Discord)
