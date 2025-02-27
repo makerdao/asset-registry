@@ -223,6 +223,7 @@ https://github.com/makerdao/rwa-toolkit|||||||||
 https://github.com/makerdao/officehours|Archived, no longer used and maintained|-|-|2024-12-24|-|-|-|-|-
 https://github.com/makerdao/test-migrate-join|Archived, no longer used and maintained|-|-|2024-12-24|-|-|-|-|-
 https://github.com/makerdao/oracles-dashboard|Archived, no longer used and maintained|-|-|2025-02-03|||||
+https://github.com/makerdao/chief-cli-legacy|Archived, no longer used and maintained|-|-|2025-02-27|||||
 
 ---
 
