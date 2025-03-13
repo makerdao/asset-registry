@@ -9,6 +9,7 @@ Twitter MakerDAO_Lat)|Pre-Approved (Grandfathered) / Available|Available (Dai Fo
 Twitter (MakerDUX)|Pre-Approved (Grandfathered) / Available|Jetstream|Share information about DUX CU work.|2022-12-16|Deniz|deniz@dux.makerdao.network|Contributor: @0xdeniz|Twitter.com|Content Managers to be added with tweetdeck-teams (https://forum.makerdao.com/t/intangible-asset-agreed-modification-of-management-2022-02-01/12980)
 Vimeo|Available|Available (Dai Foundation in emergencies)|||Dai Foundation as placeholder|techops@daifoundation.org|TechOps team on behalf of Dai Foundation|Vimeo|2 contributors can be added with different roles -https://vimeo.com/settings/account/team_members
 YouTube|Pre-Approved (Grandfathered) / Available|Juan - MakerDAO, juan@ses.makerdao.network (SES CU); Ketcher - ketcher@makerendgame.com; Retro - retro@ses.makerdao.network (SES CU);||||techops@daifoundation.org - Primary owner|Juan - MakerDAO, juan@ses.makerdao.network (SES CU); Ketcher - ketcher@makerendgame.com; Retro - retro@ses.makerdao.network (SES CU);|YouTube|Add or remove members with different permissions can be done here - https://www.youtube.com/account
+Discord (MakerDAO)|Pre-Approved (Grandfathered)|Interim Governance Facilitators (Dai Foundation in emergencies)|MakerDAO Official Discord|||techops@daifoundation.org||Discord|
 
 ---
 
