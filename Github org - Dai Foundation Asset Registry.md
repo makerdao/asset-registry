@@ -82,6 +82,7 @@ https://github.com/makerdao/governance-portal.git||DUX Core Unit|||||||
 https://github.com/makerdao/migrate-dashboard.git||DUX Core Unit|||||||
 [GitHub team] SES CU|Pre-Approved (Grandfathered)|SES CU Facilitator|||Juan|Juan-#6328|Request via TechOps|GitHub|
 https://github.com/makerdao/chief-explorer|||||||||
+https://github.com/makerdao/chief-migration-legacy|no longer used||||||||
 https://github.com/makerdao/mcd-collateral|||||||||
 https://github.com/makerdao/mcd-security|||||||||
 https://github.com/makerdao/starknet-dss-bridge-tests||SE CU|Starknet spells for Goerli network|2023-01-10|Maciej Kaminski|maciejka#6760|Request via TechOps|GitHub|
