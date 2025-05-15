@@ -144,7 +144,7 @@ https://github.com/makerdao/dss.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-add-ilk-spell.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-allocator||PullUp Labs||2024-05-21|https://github.com/oldchili|https://github.com/oldchili|||
 https://github.com/makerdao/dss-auth-viz.git|Archived|Protocol Engineering CU|||||||
-https://github.com/makerdao/dss-auto-line.git||Protocol Engineering CU|||||||
+https://github.com/makerdao/dss-auto-line.git||PullUp Labs||2025-05-14|||||
 https://github.com/makerdao/dss-bridge|||||||||
 https://github.com/makerdao/dss-cdp-manager.git||Protocol Engineering CU|||||||
 https://github.com/makerdao/dss-chain-log.git||Protocol Engineering CU|||||||
